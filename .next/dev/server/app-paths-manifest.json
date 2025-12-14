@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/checkout/route": "app/api/checkout/route.js",
+  "/api/email-alert/route": "app/api/email-alert/route.js",
+  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
+  "/dashboard/history/page": "app/dashboard/history/page.js",
+  "/dashboard/live/page": "app/dashboard/live/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dualvision/page": "app/dualvision/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js"
+}

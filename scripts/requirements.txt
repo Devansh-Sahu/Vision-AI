@@ -1,0 +1,18 @@
+# ML Training & Data Pipeline Requirements
+tensorflow==2.14.0
+torch==2.1.0
+torchvision
+opencv-python-headless
+numpy
+pandas
+pyyaml
+tqdm
+yt-dlp
+moviepy
+requests
+albumentations
+scikit-learn
+matplotlib
+onnx
+tf2onnx
+tensorflow-lite-support

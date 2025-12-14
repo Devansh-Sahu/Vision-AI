@@ -1,0 +1,1852 @@
+[00:00:01.358] Server  LOG      ✓ Ready in 985ms
+[00:00:04.916] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.452] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:00:06.452] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:06.452] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:06.452] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656090085}
+[00:00:24.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.276] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:00:25.276] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:25.276] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:25.276] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656109593}
+[00:00:33.934] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:34.174] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:00:34.175] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:34.175] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:34.175] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656118472}
+[00:01:01.314] Server  LOG      ○ Compiling /dualvision ...
+[00:01:12.212] Browser LOG     Loading TFJS models...
+[00:01:12.212] Browser LOG     Loading TFJS models...
+[00:01:12.212] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <p> p 
+
+  ...
+    <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+      <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+        <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+          <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <DismissableLayer role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+              <Primitive.div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                <div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                  <DialogHeader>
+                    <div data-slot="dialog-header" className="flex flex-...">
+                      <DialogTitle>
+                      <DialogDescription className="pt-2 space...">
+                        <DialogDescription data-slot="dialog-des..." className="text-muted...">
+                          <Primitive.p id="radix-_r_2_" data-slot="dialog-des..." className="text-muted..." ref={null}>
+>                           <p
+>                             id="radix-_r_2_"
+>                             data-slot="dialog-description"
+>                             className="text-muted-foreground text-sm pt-2 space-y-2"
+>                             ref={null}
+>                           >
+>                             <p>
+                              ...
+                  ...
+                  ...
+    ...
+
+[00:01:12.212] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <p>
+[00:01:12.212] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <ul> p 
+
+  ...
+    <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+      <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+        <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+          <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <DismissableLayer role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+              <Primitive.div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                <div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                  <DialogHeader>
+                    <div data-slot="dialog-header" className="flex flex-...">
+                      <DialogTitle>
+                      <DialogDescription className="pt-2 space...">
+                        <DialogDescription data-slot="dialog-des..." className="text-muted...">
+                          <Primitive.p id="radix-_r_2_" data-slot="dialog-des..." className="text-muted..." ref={null}>
+>                           <p
+>                             id="radix-_r_2_"
+>                             data-slot="dialog-description"
+>                             className="text-muted-foreground text-sm pt-2 space-y-2"
+>                             ref={null}
+>                           >
+                              <p>
+>                             <ul className="list-disc pl-5 space-y-1">
+                              ...
+                  ...
+                  ...
+    ...
+
+[00:01:12.212] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <ul>
+[00:01:12.212] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656156413}
+[00:01:12.212] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:01:12.213] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:01:12.898] Browser LOG     I1213 20:02:37.198000 1866800 gl_context.cc:361] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL
+[00:01:12.898] Browser WARN    W1213 20:02:37.199000 1866800 gl_context.cc:1004] OpenGL error checking is disabled
+[00:01:12.898] Browser LOG     Graph successfully started running.
+[00:01:12.898] Browser LOG     MediaPipe EfficientDet-Lite0 loaded
+[00:01:12.898] Browser LOG     Models ready ✔
+[00:06:20.011] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656464324}
+[00:08:04.901] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/signup color: rgb(120, 120, 120) color: inherit {"dp":"/signup","o":"http://localhost:3000/signup","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656569217}
+[00:08:06.220] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656570535}
+[00:09:03.315] Browser LOG     Loading TFJS models...
+[00:09:03.315] Browser LOG     Loading TFJS models...
+[00:09:03.315] Browser LOG     Models ready ✔
+[00:09:03.315] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656627589}
+[00:09:03.315] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:09:03.315] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:09:28.192] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:09:28.192] Browser WARN    Cannot save contact: No user logged in
+[00:09:32.931] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656657249}
+[00:09:37.029] Browser LOG     Loading TFJS models...
+[00:09:37.029] Browser LOG     Loading TFJS models...
+[00:09:37.029] Browser LOG     Models ready ✔
+[00:09:37.029] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656661310}
+[00:09:37.029] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:09:37.029] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:09:39.148] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:09:41.404] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656665706}
+[00:09:43.941] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/signup color: rgb(120, 120, 120) color: inherit {"dp":"/signup","o":"http://localhost:3000/signup","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656668260}
+[00:09:46.403] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656670721}
+[00:09:57.138] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656681457}
+[00:10:14.637] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:10:14.641] Server  ERROR   TypeError: fetch failed
+[00:10:30.448] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:10:30.448] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:10:30.448] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656713630}
+[00:10:59.068] Server  LOG      ○ Compiling /dashboard/history ...
+[00:11:03.161] Server  LOG      ✓ Compiled in 823ms
+[00:11:03.999] Server  LOG      ✓ Compiled in 433ms
+[00:11:06.539] Server  LOG      ✓ Compiled in 1053ms
+[00:11:10.362] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.364] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.364] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.364] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.364] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.364] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.364] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/analytics color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/analytics","o":"http://localhost:3000/dashboard/analytics","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656754556}
+[00:11:15.103] Server  LOG      ○ Compiling /dashboard/live ...
+[00:11:18.220] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:11:18.231] Server  ERROR   TypeError: fetch failed
+[00:11:18.296] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/live color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/live","o":"http://localhost:3000/dashboard/live","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656762611}
+[00:11:24.790] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656769108}
+[00:11:27.709] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656772026}
+[00:12:23.463] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:23.750] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:12:23.750] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:12:23.750] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765656828070}
+[00:12:23.965] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:14:22.110] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.112] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.113] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.114] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.115] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.116] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.117] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.118] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.119] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.119] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.124] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.125] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.126] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.128] Server  ERROR    ⨯ ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:22.160] Server  LOG      ✓ Compiled in 91ms
+[00:14:22.448] Browser ERROR   ./app/page.tsx:8:1
+Module not found: Can't resolve '@/components/landing/pricing'
+   6 | import { LandingCTA } from "@/components/landing/cta"
+   7 | import { LandingFooter } from "@/components/landing/footer"
+>  8 | import { Pricing } from "@/components/landing/pricing"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   9 |
+  10 | export default function HomePage() {
+  11 |   return (
+
+Import map: aliased to relative './components/landing/pricing' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:38.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:38.503] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:38.504] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:15:38.504] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657022776}
+[00:15:38.504] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:15:42.355] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:42.651] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:15:42.651] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:42.651] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:15:42.651] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657026964}
+[00:22:39.231] Browser LOG     Loading TFJS models...
+[00:22:39.231] Browser LOG     Loading TFJS models...
+[00:22:39.231] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <p> p 
+
+  ...
+    <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+      <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+        <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+          <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <DismissableLayer role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+              <Primitive.div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                <div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                  <DialogHeader>
+                    <div data-slot="dialog-header" className="flex flex-...">
+                      <DialogTitle>
+                      <DialogDescription className="pt-2 space...">
+                        <DialogDescription data-slot="dialog-des..." className="text-muted...">
+                          <Primitive.p id="radix-_r_2_" data-slot="dialog-des..." className="text-muted..." ref={null}>
+>                           <p
+>                             id="radix-_r_2_"
+>                             data-slot="dialog-description"
+>                             className="text-muted-foreground text-sm pt-2 space-y-2"
+>                             ref={null}
+>                           >
+>                             <p>
+                              ...
+                  ...
+                  ...
+    ...
+
+[00:22:39.231] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <p>
+[00:22:39.231] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <ul> p 
+
+  ...
+    <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+      <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+        <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+          <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <DismissableLayer role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+              <Primitive.div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                <div role="dialog" id="radix-_r_0_" aria-describedby="radix-_r_2_" aria-labelledby="radix-_r_1_" ...>
+                  <DialogHeader>
+                    <div data-slot="dialog-header" className="flex flex-...">
+                      <DialogTitle>
+                      <DialogDescription className="pt-2 space...">
+                        <DialogDescription data-slot="dialog-des..." className="text-muted...">
+                          <Primitive.p id="radix-_r_2_" data-slot="dialog-des..." className="text-muted..." ref={null}>
+>                           <p
+>                             id="radix-_r_2_"
+>                             data-slot="dialog-description"
+>                             className="text-muted-foreground text-sm pt-2 space-y-2"
+>                             ref={null}
+>                           >
+                              <p>
+>                             <ul className="list-disc pl-5 space-y-1">
+                              ...
+                  ...
+                  ...
+    ...
+
+[00:22:39.231] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <ul>
+[00:22:39.231] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657443417}
+[00:22:39.231] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:22:39.231] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:22:39.495] Browser LOG     I1213 20:24:03.805000 1866800 gl_context.cc:361] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL
+[00:22:39.495] Browser WARN    W1213 20:24:03.806000 1866800 gl_context.cc:1004] OpenGL error checking is disabled
+[00:22:39.495] Browser LOG     Graph successfully started running.
+[00:22:39.495] Browser LOG     MediaPipe EfficientDet-Lite0 loaded
+[00:22:39.495] Browser LOG     Models ready ✔
+[00:22:58.156] Browser LOG     Could not get context for WebGL version 2
+[00:22:58.156] Browser LOG     Could not get context for WebGL version 1
+[00:22:58.156] Browser WARN    Initialization of backend webgl failed
+[00:22:58.156] Browser WARN    Error: WebGL is not supported on this device
+    at new MathBackendWebGL (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-backend-webgl_dist_backend_webgl_bf692b2d.js:132:19)
+    at Object.factory (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-backend-webgl_dist_c3aeee91._.js:4423:205)
+    at Engine.initializeBackend (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_engine_b74dcfe9.js:219:50)
+    at Engine.ready (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_engine_b74dcfe9.js:116:40)
+    at Module.ready (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_14e345ef._.js:3268:184)
+    at ensureTFReady (http://localhost:3000/_next/static/chunks/_10853e6a._.js:838:190)
+    at runRealDrowsinessDetection (http://localhost:3000/_next/static/chunks/_10853e6a._.js:882:11)
+    at DualVisionDemo.useCallback[runDetection] (http://localhost:3000/_next/static/chunks/_10853e6a._.js:2827:188)
+    at DualVisionDemo.useEffect.loop (http://localhost:3000/_next/static/chunks/_10853e6a._.js:3121:31)
+    at DualVisionDemo.useEffect (http://localhost:3000/_next/static/chunks/_10853e6a._.js:3128:13)
+    at Object.react_stack_bottom_frame (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14866:22)
+    at runWithFiberInDEV (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:959:74)
+    at commitHookEffectListMount (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:7260:167)
+    at commitHookPassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:7295:60)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8690:33)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8694:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8694:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+[00:22:58.156] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:22:58.156] Browser LOG     FaceMesh model loaded (local)
+[00:22:58.156] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"78.3%","raw":"0.242","state":"ALERT"}
+[00:22:58.156] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:22:58.690] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:22:59.428] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:00.180] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:00.936] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:01.723] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:02.467] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:03.215] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:03.966] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:05.538] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:05.538] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"76.5%","raw":"0.247","state":"ALERT"}
+[00:23:05.538] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:06.340] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:07.102] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:07.821] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:08.585] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:09.350] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:10.156] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:10.912] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:11.674] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:13.232] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:13.232] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"49.3%","raw":"0.200","state":"DROWSY"}
+[00:23:13.232] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:14.026] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:14.791] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:15.545] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:16.305] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:17.132] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:17.872] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:18.626] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:19.365] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:20.875] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:20.875] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"43.9%","raw":"0.192","state":"DROWSY"}
+[00:23:20.875] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:21.634] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:22.397] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:23.793] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:24.916] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:26.536] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:28.202] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:29.873] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:31.469] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:33.128] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:34.764] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"97.3%","raw":"0.299","state":"ALERT"}
+[00:23:34.765] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:36.481] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:38.156] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:39.791] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:41.464] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:43.118] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:44.783] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:46.480] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:23:48.118] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"99.5%","raw":"0.305","state":"ALERT"}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:00.897] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:01.413] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:02.172] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:02.964] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:03.956] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:03.956] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"77.8%","raw":"0.241","state":"ALERT"}
+[00:24:04.448] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:05.187] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:05.944] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:06.695] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:07.428] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:08.184] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:08.953] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:09.693] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:10.451] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:11.469] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:11.469] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"80.0%","raw":"0.242","state":"ALERT"}
+[00:24:11.987] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:12.729] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:13.449] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:14.197] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:14.919] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:15.678] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:16.412] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:17.150] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:17.880] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:18.874] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:18.874] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"88.3%","raw":"0.256","state":"ALERT"}
+[00:24:19.369] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:20.107] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:20.836] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:21.580] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:22.314] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:23.051] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:23.804] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:24.561] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:25.300] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:26.291] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:26.291] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"91.1%","raw":"0.256","state":"ALERT"}
+[00:24:26.794] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:27.547] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:28.286] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:29.033] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:29.775] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:30.525] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:31.261] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:31.998] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:32.743] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:33.738] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:33.738] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"97.8%","raw":"0.265","state":"ALERT"}
+[00:24:34.236] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:34.991] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:35.730] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:36.478] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:37.220] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:37.995] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:38.738] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:39.491] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:40.217] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:41.201] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:41.201] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"97.0%","raw":"0.258","state":"ALERT"}
+[00:24:41.695] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:42.424] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:43.153] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:43.898] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:44.637] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:45.375] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:46.122] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:46.860] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:47.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:48.570] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:48.570] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"99.7%","raw":"0.267","state":"ALERT"}
+[00:24:49.067] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:49.773] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:50.474] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:51.192] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:51.934] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:24:52.676] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:03.546] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:03.546] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:03.546] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:03.546] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:03.546] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"81.5%","raw":"0.224","state":"ALERT"}
+[00:25:04.049] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:04.575] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:05.367] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:26.120] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:27.396] Browser LOG     Loading TFJS models...
+[00:25:27.396] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <p> p 
+
+  ...
+    <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+      <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+        <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+          <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <DismissableLayer role="dialog" id="radix-_R_3..." aria-describedby="radix-_R_3..." ...>
+              <Primitive.div role="dialog" id="radix-_R_3..." aria-describedby="radix-_R_3..." ...>
+                <div role="dialog" id="radix-_R_3..." aria-describedby="radix-_R_3..." aria-labelledby="radix-_R_3..." ...>
+                  <DialogHeader>
+                    <div data-slot="dialog-header" className="flex flex-...">
+                      <DialogTitle>
+                      <DialogDescription className="pt-2 space...">
+                        <DialogDescription data-slot="dialog-des..." className="text-muted...">
+                          <Primitive.p id="radix-_R_3..." data-slot="dialog-des..." className="text-muted..." ref={null}>
+>                           <p
+>                             id="radix-_R_35esndlbH2_"
+>                             data-slot="dialog-description"
+>                             className="text-muted-foreground text-sm pt-2 space-y-2"
+>                             ref={null}
+>                           >
+>                             <p>
+                              ...
+                  ...
+                  ...
+    ...
+
+[00:25:27.396] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <p>
+[00:25:27.396] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <ul> p 
+
+  ...
+    <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+      <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+        <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+          <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <DismissableLayer role="dialog" id="radix-_R_3..." aria-describedby="radix-_R_3..." ...>
+              <Primitive.div role="dialog" id="radix-_R_3..." aria-describedby="radix-_R_3..." ...>
+                <div role="dialog" id="radix-_R_3..." aria-describedby="radix-_R_3..." aria-labelledby="radix-_R_3..." ...>
+                  <DialogHeader>
+                    <div data-slot="dialog-header" className="flex flex-...">
+                      <DialogTitle>
+                      <DialogDescription className="pt-2 space...">
+                        <DialogDescription data-slot="dialog-des..." className="text-muted...">
+                          <Primitive.p id="radix-_R_3..." data-slot="dialog-des..." className="text-muted..." ref={null}>
+>                           <p
+>                             id="radix-_R_35esndlbH2_"
+>                             data-slot="dialog-description"
+>                             className="text-muted-foreground text-sm pt-2 space-y-2"
+>                             ref={null}
+>                           >
+                              <p>
+>                             <ul className="list-disc pl-5 space-y-1">
+                              ...
+                  ...
+                  ...
+    ...
+
+[00:25:27.396] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <ul>
+[00:25:27.396] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:27.396] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:25:27.396] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dualvision","route":"/dualvision"}
+[00:25:27.396] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657611545}
+[00:25:27.396] Browser LOG     I1213 20:26:51.713000 1866800 gl_context.cc:361] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL
+[00:25:27.396] Browser WARN    W1213 20:26:51.714000 1866800 gl_context.cc:1004] OpenGL error checking is disabled
+[00:25:27.396] Browser LOG     Graph successfully started running.
+[00:25:27.396] Browser LOG     MediaPipe EfficientDet-Lite0 loaded
+[00:25:27.396] Browser LOG     Models ready ✔
+[00:25:27.863] Server  LOG      ✓ Compiled in 764ms
+[00:25:33.001] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:33.001] Browser WARN    Cannot save contact: No user logged in
+[00:25:38.013] Browser LOG     Could not get context for WebGL version 2
+[00:25:38.013] Browser LOG     Could not get context for WebGL version 1
+[00:25:38.013] Browser WARN    Initialization of backend webgl failed
+[00:25:38.013] Browser WARN    Error: WebGL is not supported on this device
+    at new MathBackendWebGL (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-backend-webgl_dist_backend_webgl_bf692b2d.js:132:19)
+    at Object.factory (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-backend-webgl_dist_c3aeee91._.js:4423:205)
+    at Engine.initializeBackend (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_engine_b74dcfe9.js:219:50)
+    at Engine.ready (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_engine_b74dcfe9.js:116:40)
+    at Module.ready (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_14e345ef._.js:3268:184)
+    at ensureTFReady (http://localhost:3000/_next/static/chunks/_10853e6a._.js:838:190)
+    at runRealDrowsinessDetection (http://localhost:3000/_next/static/chunks/_10853e6a._.js:882:11)
+    at DualVisionDemo.useCallback[runDetection] (http://localhost:3000/_next/static/chunks/_10853e6a._.js?id=%255Bproject%255D%252Fapp%252Fdualvision%252Fpage.tsx+%255Bapp-client%255D+%2528ecmascript%2529:167:188)
+    at DualVisionDemo.useEffect.loop (http://localhost:3000/_next/static/chunks/_10853e6a._.js?id=%255Bproject%255D%252Fapp%252Fdualvision%252Fpage.tsx+%255Bapp-client%255D+%2528ecmascript%2529:461:31)
+    at DualVisionDemo.useEffect (http://localhost:3000/_next/static/chunks/_10853e6a._.js?id=%255Bproject%255D%252Fapp%252Fdualvision%252Fpage.tsx+%255Bapp-client%255D+%2528ecmascript%2529:468:13)
+    at Object.react_stack_bottom_frame (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14866:22)
+    at runWithFiberInDEV (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:959:74)
+    at commitHookEffectListMount (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:7260:167)
+    at commitHookPassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:7295:60)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8690:33)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8694:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8694:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8751:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+    at commitPassiveMountOnFiber (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8689:17)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8677:316)
+[00:25:38.013] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:38.013] Browser LOG     FaceMesh model loaded (local)
+[00:25:38.013] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"60.3%","raw":"0.208","state":"ALERT"}
+[00:25:38.770] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:39.386] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:40.171] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:40.936] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:41.693] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:42.515] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:43.329] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:44.089] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:44.846] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:46.359] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:46.359] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"73.8%","raw":"0.232","state":"ALERT"}
+[00:25:46.359] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:47.123] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:47.889] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:48.644] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:49.389] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:50.205] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:50.965] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:52.651] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:52.651] Browser LOG     Triggering Emergency Email to: thedeeview07@gmail.com
+[00:25:52.651] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:54.218] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:54.218] Browser LOG     Biometric Eye State: {"isBlink":true,"isMicrosleep":true,"openness":"0.9%","raw":"0.142","state":"DROWSY"}
+[00:25:54.218] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:55.007] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:55.811] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:56.570] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:57.335] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:58.111] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:58.616] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:25:59.363] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:00.181] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:01.250] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:02.952] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"97.5%","raw":"0.327","state":"ALERT"}
+[00:26:02.952] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:04.658] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:06.382] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:08.077] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:09.747] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:11.587] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:12.463] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:13.277] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:13.308] Server  ERROR   Email API/SMTP Error: Error: connect ETIMEDOUT 64.233.170.108:465
+[00:26:14.435] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:14.435] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:15.985] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:15.985] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"70.1%","raw":"0.229","state":"ALERT"}
+[00:26:15.985] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:16.765] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:17.557] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:18.344] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:19.121] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:19.930] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:20.712] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:21.476] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:22.258] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:23.836] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:23.837] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"82.3%","raw":"0.259","state":"ALERT"}
+[00:26:23.837] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:24.611] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:25.396] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:26.175] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:26.974] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:26:28.763] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:29.008] Server  LOG      ✓ Compiled in 74ms
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"84.9%","raw":"0.260","state":"ALERT"}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.590] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"90.9%","raw":"0.268","state":"ALERT"}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"69.0%","raw":"0.210","state":"ALERT"}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:27:59.591] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:00.382] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:00.902] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:01.682] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:02.446] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:03.219] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:03.999] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:04.750] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:06.265] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:06.265] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"54.5%","raw":"0.193","state":"ALERT"}
+[00:28:06.265] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:07.036] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:07.828] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:08.579] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:09.329] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:10.123] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:10.915] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:11.788] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:12.531] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:14.071] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:14.071] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"48.3%","raw":"0.182","state":"ALERT"}
+[00:28:14.071] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:14.852] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:15.729] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:16.495] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:17.249] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:18.010] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:18.760] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:20.286] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:21.866] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:21.866] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"64.9%","raw":"0.204","state":"ALERT"}
+[00:28:21.866] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:22.619] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:23.429] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:24.238] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:24.990] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:25.748] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:26.507] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:27.262] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:28.047] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:29.566] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:29.566] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"58.5%","raw":"0.195","state":"ALERT"}
+[00:28:29.566] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:30.335] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:31.086] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:31.868] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:32.634] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:33.382] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:34.157] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:34.909] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:35.678] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:37.200] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:37.200] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"64.5%","raw":"0.198","state":"ALERT"}
+[00:28:37.200] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:37.990] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:38.757] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:39.520] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:40.295] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:41.094] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:41.870] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:42.653] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:43.421] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:44.946] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:44.946] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"35.7%","raw":"0.169","state":"ALERT"}
+[00:28:44.947] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:45.701] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:46.546] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:47.313] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:48.088] Browser LOG     Triggering Emergency Email to: thedeeview07@gmail.com
+[00:28:48.088] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:48.866] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:49.605] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:50.374] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:51.247] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:52.885] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:52.885] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"74.7%","raw":"0.219","state":"ALERT"}
+[00:28:52.885] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:53.642] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:54.448] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:55.234] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:56.612] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:58.304] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:28:59.975] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:01.645] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:03.356] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:06.766] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:06.766] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"100.0%","raw":"0.277","state":"ALERT"}
+[00:29:06.766] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:08.672] Server  ERROR   Email API/SMTP Error: Error: connect ETIMEDOUT 64.233.170.108:465
+[00:29:09.391] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:10.952] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:11.748] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:12.288] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:13.144] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:14.581] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:15.483] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:16.335] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:17.174] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:18.013] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"68.4%","raw":"0.205","state":"ALERT"}
+[00:29:18.013] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:18.866] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:19.715] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:20.565] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:21.411] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:22.279] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:23.120] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:23.973] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:24.801] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:25.665] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:26.526] Browser LOG     Biometric Eye State: {"isBlink":true,"isMicrosleep":true,"openness":"7.7%","raw":"0.151","state":"DROWSY"}
+[00:29:26.526] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:27.393] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:28.303] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:29.211] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:30.086] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:30.965] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:31.825] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:32.662] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:33.491] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:34.319] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:35.171] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"15.6%","raw":"0.161","state":"ALERT"}
+[00:29:35.171] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:36.038] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:36.921] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:37.753] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:57.114] Server  WARN    Platform node has already been set. Overwriting the platform with node.
+[00:29:57.141] Server  WARN    cpu backend was already registered. Reusing existing backend factory.
+[00:29:57.146] Server  WARN    The kernel '_FusedMatMul' for backend 'cpu' is already registered
+[00:29:57.147] Server  WARN    The kernel 'Abs' for backend 'cpu' is already registered
+[00:29:57.147] Server  WARN    The kernel 'Acos' for backend 'cpu' is already registered
+[00:29:57.148] Server  WARN    The kernel 'Acosh' for backend 'cpu' is already registered
+[00:29:57.149] Server  WARN    The kernel 'Add' for backend 'cpu' is already registered
+[00:29:57.149] Server  WARN    The kernel 'AddN' for backend 'cpu' is already registered
+[00:29:57.150] Server  WARN    The kernel 'All' for backend 'cpu' is already registered
+[00:29:57.151] Server  WARN    The kernel 'Any' for backend 'cpu' is already registered
+[00:29:57.151] Server  WARN    The kernel 'ArgMax' for backend 'cpu' is already registered
+[00:29:57.153] Server  WARN    The kernel 'ArgMin' for backend 'cpu' is already registered
+[00:29:57.153] Server  WARN    The kernel 'Asin' for backend 'cpu' is already registered
+[00:29:57.154] Server  WARN    The kernel 'Asinh' for backend 'cpu' is already registered
+[00:29:57.155] Server  WARN    The kernel 'Atan' for backend 'cpu' is already registered
+[00:29:57.155] Server  WARN    The kernel 'Atan2' for backend 'cpu' is already registered
+[00:29:57.156] Server  WARN    The kernel 'Atanh' for backend 'cpu' is already registered
+[00:29:57.157] Server  WARN    The kernel 'AvgPool' for backend 'cpu' is already registered
+[00:29:57.157] Server  WARN    The kernel 'AvgPool3D' for backend 'cpu' is already registered
+[00:29:57.158] Server  WARN    The kernel 'AvgPool3DGrad' for backend 'cpu' is already registered
+[00:29:57.159] Server  WARN    The kernel 'AvgPoolGrad' for backend 'cpu' is already registered
+[00:29:57.160] Server  WARN    The kernel 'BatchMatMul' for backend 'cpu' is already registered
+[00:29:57.161] Server  WARN    The kernel 'FusedBatchNorm' for backend 'cpu' is already registered
+[00:29:57.162] Server  WARN    The kernel 'BatchToSpaceND' for backend 'cpu' is already registered
+[00:29:57.163] Server  WARN    The kernel 'Bincount' for backend 'cpu' is already registered
+[00:29:57.165] Server  WARN    The kernel 'BitwiseAnd' for backend 'cpu' is already registered
+[00:29:57.166] Server  WARN    The kernel 'BroadcastArgs' for backend 'cpu' is already registered
+[00:29:57.168] Server  WARN    The kernel 'Cast' for backend 'cpu' is already registered
+[00:29:57.169] Server  WARN    The kernel 'Ceil' for backend 'cpu' is already registered
+[00:29:57.169] Server  WARN    The kernel 'ClipByValue' for backend 'cpu' is already registered
+[00:29:57.170] Server  WARN    The kernel 'Complex' for backend 'cpu' is already registered
+[00:29:57.172] Server  WARN    The kernel 'ComplexAbs' for backend 'cpu' is already registered
+[00:29:57.173] Server  WARN    The kernel 'Concat' for backend 'cpu' is already registered
+[00:29:57.174] Server  WARN    The kernel 'Conv2D' for backend 'cpu' is already registered
+[00:29:57.175] Server  WARN    The kernel 'Conv2DBackpropFilter' for backend 'cpu' is already registered
+[00:29:57.177] Server  WARN    The kernel 'Conv2DBackpropInput' for backend 'cpu' is already registered
+[00:29:57.178] Server  WARN    The kernel 'Conv3D' for backend 'cpu' is already registered
+[00:29:57.179] Server  WARN    The kernel 'Conv3DBackpropFilterV2' for backend 'cpu' is already registered
+[00:29:57.180] Server  WARN    The kernel 'Conv3DBackpropInputV2' for backend 'cpu' is already registered
+[00:29:57.181] Server  WARN    The kernel 'Cos' for backend 'cpu' is already registered
+[00:29:57.182] Server  WARN    The kernel 'Cosh' for backend 'cpu' is already registered
+[00:29:57.182] Server  WARN    The kernel 'CropAndResize' for backend 'cpu' is already registered
+[00:29:57.183] Server  WARN    The kernel 'Cumprod' for backend 'cpu' is already registered
+[00:29:57.184] Server  WARN    The kernel 'Cumsum' for backend 'cpu' is already registered
+[00:29:57.184] Server  WARN    The kernel 'DenseBincount' for backend 'cpu' is already registered
+[00:29:57.185] Server  WARN    The kernel 'DepthToSpace' for backend 'cpu' is already registered
+[00:29:57.185] Server  WARN    The kernel 'DepthwiseConv2dNative' for backend 'cpu' is already registered
+[00:29:57.186] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropFilter' for backend 'cpu' is already registered
+[00:29:57.186] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropInput' for backend 'cpu' is already registered
+[00:29:57.187] Server  WARN    The kernel 'Diag' for backend 'cpu' is already registered
+[00:29:57.188] Server  WARN    The kernel 'Dilation2D' for backend 'cpu' is already registered
+[00:29:57.189] Server  WARN    The kernel 'Dilation2DBackpropFilter' for backend 'cpu' is already registered
+[00:29:57.190] Server  WARN    The kernel 'Dilation2DBackpropInput' for backend 'cpu' is already registered
+[00:29:57.191] Server  WARN    The kernel 'Draw' for backend 'cpu' is already registered
+[00:29:57.192] Server  WARN    The kernel 'Einsum' for backend 'cpu' is already registered
+[00:29:57.192] Server  WARN    The kernel 'Elu' for backend 'cpu' is already registered
+[00:29:57.192] Server  WARN    The kernel 'EluGrad' for backend 'cpu' is already registered
+[00:29:57.193] Server  WARN    The kernel 'Equal' for backend 'cpu' is already registered
+[00:29:57.193] Server  WARN    The kernel 'Erf' for backend 'cpu' is already registered
+[00:29:57.194] Server  WARN    The kernel 'Exp' for backend 'cpu' is already registered
+[00:29:57.195] Server  WARN    The kernel 'ExpandDims' for backend 'cpu' is already registered
+[00:29:57.195] Server  WARN    The kernel 'Expm1' for backend 'cpu' is already registered
+[00:29:57.196] Server  WARN    The kernel 'FFT' for backend 'cpu' is already registered
+[00:29:57.197] Server  WARN    The kernel 'Fill' for backend 'cpu' is already registered
+[00:29:57.197] Server  WARN    The kernel 'FlipLeftRight' for backend 'cpu' is already registered
+[00:29:57.198] Server  WARN    The kernel 'Floor' for backend 'cpu' is already registered
+[00:29:57.199] Server  WARN    The kernel 'FloorDiv' for backend 'cpu' is already registered
+[00:29:57.199] Server  WARN    The kernel 'FusedConv2D' for backend 'cpu' is already registered
+[00:29:57.199] Server  WARN    The kernel 'FusedDepthwiseConv2D' for backend 'cpu' is already registered
+[00:29:57.203] Server  WARN    The kernel 'GatherNd' for backend 'cpu' is already registered
+[00:29:57.204] Server  WARN    The kernel 'GatherV2' for backend 'cpu' is already registered
+[00:29:57.205] Server  WARN    The kernel 'Greater' for backend 'cpu' is already registered
+[00:29:57.206] Server  WARN    The kernel 'GreaterEqual' for backend 'cpu' is already registered
+[00:29:57.207] Server  WARN    The kernel 'Identity' for backend 'cpu' is already registered
+[00:29:57.208] Server  WARN    The kernel 'IFFT' for backend 'cpu' is already registered
+[00:29:57.209] Server  WARN    The kernel 'Imag' for backend 'cpu' is already registered
+[00:29:57.209] Server  WARN    The kernel 'IsFinite' for backend 'cpu' is already registered
+[00:29:57.210] Server  WARN    The kernel 'IsInf' for backend 'cpu' is already registered
+[00:29:57.211] Server  WARN    The kernel 'IsNan' for backend 'cpu' is already registered
+[00:29:57.211] Server  WARN    The kernel 'LeakyRelu' for backend 'cpu' is already registered
+[00:29:57.212] Server  WARN    The kernel 'Less' for backend 'cpu' is already registered
+[00:29:57.213] Server  WARN    The kernel 'LessEqual' for backend 'cpu' is already registered
+[00:29:57.214] Server  WARN    The kernel 'LinSpace' for backend 'cpu' is already registered
+[00:29:57.214] Server  WARN    The kernel 'Log' for backend 'cpu' is already registered
+[00:29:57.215] Server  WARN    The kernel 'Log1p' for backend 'cpu' is already registered
+[00:29:57.215] Server  WARN    The kernel 'LogicalAnd' for backend 'cpu' is already registered
+[00:29:57.216] Server  WARN    The kernel 'LogicalNot' for backend 'cpu' is already registered
+[00:29:57.217] Server  WARN    The kernel 'LogicalOr' for backend 'cpu' is already registered
+[00:29:57.217] Server  WARN    The kernel 'LRN' for backend 'cpu' is already registered
+[00:29:57.218] Server  WARN    The kernel 'LRNGrad' for backend 'cpu' is already registered
+[00:29:57.219] Server  WARN    The kernel 'Max' for backend 'cpu' is already registered
+[00:29:57.219] Server  WARN    The kernel 'Maximum' for backend 'cpu' is already registered
+[00:29:57.223] Server  WARN    The kernel 'MaxPool' for backend 'cpu' is already registered
+[00:29:57.224] Server  WARN    The kernel 'MaxPool3D' for backend 'cpu' is already registered
+[00:29:57.224] Server  WARN    The kernel 'MaxPool3DGrad' for backend 'cpu' is already registered
+[00:29:57.225] Server  WARN    The kernel 'MaxPoolGrad' for backend 'cpu' is already registered
+[00:29:57.226] Server  WARN    The kernel 'MaxPoolWithArgmax' for backend 'cpu' is already registered
+[00:29:57.227] Server  WARN    The kernel 'Mean' for backend 'cpu' is already registered
+[00:29:57.229] Server  WARN    The kernel 'Min' for backend 'cpu' is already registered
+[00:29:57.230] Server  WARN    The kernel 'Minimum' for backend 'cpu' is already registered
+[00:29:57.231] Server  WARN    The kernel 'MirrorPad' for backend 'cpu' is already registered
+[00:29:57.232] Server  WARN    The kernel 'Mod' for backend 'cpu' is already registered
+[00:29:57.233] Server  WARN    The kernel 'Multinomial' for backend 'cpu' is already registered
+[00:29:57.233] Server  WARN    The kernel 'Multiply' for backend 'cpu' is already registered
+[00:29:57.234] Server  WARN    The kernel 'Neg' for backend 'cpu' is already registered
+[00:29:57.235] Server  WARN    The kernel 'NonMaxSuppressionV3' for backend 'cpu' is already registered
+[00:29:57.237] Server  WARN    The kernel 'NonMaxSuppressionV4' for backend 'cpu' is already registered
+[00:29:57.238] Server  WARN    The kernel 'NonMaxSuppressionV5' for backend 'cpu' is already registered
+[00:29:57.239] Server  WARN    The kernel 'NotEqual' for backend 'cpu' is already registered
+[00:29:57.240] Server  WARN    The kernel 'OneHot' for backend 'cpu' is already registered
+[00:29:57.241] Server  WARN    The kernel 'OnesLike' for backend 'cpu' is already registered
+[00:29:57.243] Server  WARN    The kernel 'Pack' for backend 'cpu' is already registered
+[00:29:57.244] Server  WARN    The kernel 'PadV2' for backend 'cpu' is already registered
+[00:29:57.245] Server  WARN    The kernel 'Pow' for backend 'cpu' is already registered
+[00:29:57.246] Server  WARN    The kernel 'Prelu' for backend 'cpu' is already registered
+[00:29:57.246] Server  WARN    The kernel 'Prod' for backend 'cpu' is already registered
+[00:29:57.247] Server  WARN    The kernel 'RaggedGather' for backend 'cpu' is already registered
+[00:29:57.248] Server  WARN    The kernel 'RaggedRange' for backend 'cpu' is already registered
+[00:29:57.251] Server  WARN    The kernel 'RaggedTensorToTensor' for backend 'cpu' is already registered
+[00:29:57.252] Server  WARN    The kernel 'Range' for backend 'cpu' is already registered
+[00:29:57.253] Server  WARN    The kernel 'Real' for backend 'cpu' is already registered
+[00:29:57.254] Server  WARN    The kernel 'RealDiv' for backend 'cpu' is already registered
+[00:29:57.256] Server  WARN    The kernel 'Reciprocal' for backend 'cpu' is already registered
+[00:29:57.257] Server  WARN    The kernel 'Relu' for backend 'cpu' is already registered
+[00:29:57.258] Server  WARN    The kernel 'Relu6' for backend 'cpu' is already registered
+[00:29:57.260] Server  WARN    The kernel 'Reshape' for backend 'cpu' is already registered
+[00:29:57.260] Server  WARN    The kernel 'ResizeBilinear' for backend 'cpu' is already registered
+[00:29:57.261] Server  WARN    The kernel 'ResizeBilinearGrad' for backend 'cpu' is already registered
+[00:29:57.261] Server  WARN    The kernel 'ResizeNearestNeighbor' for backend 'cpu' is already registered
+[00:29:57.262] Server  WARN    The kernel 'ResizeNearestNeighborGrad' for backend 'cpu' is already registered
+[00:29:57.263] Server  WARN    The kernel 'Reverse' for backend 'cpu' is already registered
+[00:29:57.264] Server  WARN    The kernel 'RotateWithOffset' for backend 'cpu' is already registered
+[00:29:57.266] Server  WARN    The kernel 'Round' for backend 'cpu' is already registered
+[00:29:57.267] Server  WARN    The kernel 'Rsqrt' for backend 'cpu' is already registered
+[00:29:57.267] Server  WARN    The kernel 'ScatterNd' for backend 'cpu' is already registered
+[00:29:57.268] Server  WARN    The kernel 'SearchSorted' for backend 'cpu' is already registered
+[00:29:57.269] Server  WARN    The kernel 'Select' for backend 'cpu' is already registered
+[00:29:57.270] Server  WARN    The kernel 'Selu' for backend 'cpu' is already registered
+[00:29:57.271] Server  WARN    The kernel 'Sigmoid' for backend 'cpu' is already registered
+[00:29:57.272] Server  WARN    The kernel 'Sign' for backend 'cpu' is already registered
+[00:29:57.273] Server  WARN    The kernel 'Sin' for backend 'cpu' is already registered
+[00:29:57.273] Server  WARN    The kernel 'Sinh' for backend 'cpu' is already registered
+[00:29:57.274] Server  WARN    The kernel 'Slice' for backend 'cpu' is already registered
+[00:29:57.274] Server  WARN    The kernel 'Softmax' for backend 'cpu' is already registered
+[00:29:57.275] Server  WARN    The kernel 'Softplus' for backend 'cpu' is already registered
+[00:29:57.276] Server  WARN    The kernel 'SpaceToBatchND' for backend 'cpu' is already registered
+[00:29:57.276] Server  WARN    The kernel 'SparseFillEmptyRows' for backend 'cpu' is already registered
+[00:29:57.277] Server  WARN    The kernel 'SparseReshape' for backend 'cpu' is already registered
+[00:29:57.278] Server  WARN    The kernel 'SparseSegmentMean' for backend 'cpu' is already registered
+[00:29:57.280] Server  WARN    The kernel 'SparseSegmentSum' for backend 'cpu' is already registered
+[00:29:57.281] Server  WARN    The kernel 'SparseToDense' for backend 'cpu' is already registered
+[00:29:57.282] Server  WARN    The kernel 'SplitV' for backend 'cpu' is already registered
+[00:29:57.283] Server  WARN    The kernel 'Sqrt' for backend 'cpu' is already registered
+[00:29:57.286] Server  WARN    The kernel 'Square' for backend 'cpu' is already registered
+[00:29:57.287] Server  WARN    The kernel 'SquaredDifference' for backend 'cpu' is already registered
+[00:29:57.288] Server  WARN    The kernel 'StaticRegexReplace' for backend 'cpu' is already registered
+[00:29:57.289] Server  WARN    The kernel 'Step' for backend 'cpu' is already registered
+[00:29:57.289] Server  WARN    The kernel 'StridedSlice' for backend 'cpu' is already registered
+[00:29:57.290] Server  WARN    The kernel 'StringNGrams' for backend 'cpu' is already registered
+[00:29:57.291] Server  WARN    The kernel 'StringSplit' for backend 'cpu' is already registered
+[00:29:57.292] Server  WARN    The kernel 'StringToHashBucketFast' for backend 'cpu' is already registered
+[00:29:57.292] Server  WARN    The kernel 'Sub' for backend 'cpu' is already registered
+[00:29:57.293] Server  WARN    The kernel 'Sum' for backend 'cpu' is already registered
+[00:29:57.293] Server  WARN    The kernel 'Tan' for backend 'cpu' is already registered
+[00:29:57.294] Server  WARN    The kernel 'Tanh' for backend 'cpu' is already registered
+[00:29:57.295] Server  WARN    The kernel 'TensorScatterUpdate' for backend 'cpu' is already registered
+[00:29:57.295] Server  WARN    The kernel 'Tile' for backend 'cpu' is already registered
+[00:29:57.296] Server  WARN    The kernel 'TopK' for backend 'cpu' is already registered
+[00:29:57.297] Server  WARN    The kernel 'Transform' for backend 'cpu' is already registered
+[00:29:57.298] Server  WARN    The kernel 'Transpose' for backend 'cpu' is already registered
+[00:29:57.299] Server  WARN    The kernel 'Unique' for backend 'cpu' is already registered
+[00:29:57.300] Server  WARN    The kernel 'Unpack' for backend 'cpu' is already registered
+[00:29:57.300] Server  WARN    The kernel 'UnsortedSegmentSum' for backend 'cpu' is already registered
+[00:29:57.302] Server  WARN    The kernel 'ZerosLike' for backend 'cpu' is already registered
+[00:29:57.307] Server  WARN    The kernel '_FusedMatMul' for backend 'webgl' is already registered
+[00:29:57.311] Server  WARN    The kernel 'Abs' for backend 'webgl' is already registered
+[00:29:57.311] Server  WARN    The kernel 'Acos' for backend 'webgl' is already registered
+[00:29:57.313] Server  WARN    The kernel 'Acosh' for backend 'webgl' is already registered
+[00:29:57.314] Server  WARN    The kernel 'Add' for backend 'webgl' is already registered
+[00:29:57.315] Server  WARN    The kernel 'AddN' for backend 'webgl' is already registered
+[00:29:57.315] Server  WARN    The kernel 'All' for backend 'webgl' is already registered
+[00:29:57.316] Server  WARN    The kernel 'Any' for backend 'webgl' is already registered
+[00:29:57.317] Server  WARN    The kernel 'ArgMax' for backend 'webgl' is already registered
+[00:29:57.319] Server  WARN    The kernel 'ArgMin' for backend 'webgl' is already registered
+[00:29:57.320] Server  WARN    The kernel 'Asin' for backend 'webgl' is already registered
+[00:29:57.321] Server  WARN    The kernel 'Asinh' for backend 'webgl' is already registered
+[00:29:57.322] Server  WARN    The kernel 'Atan' for backend 'webgl' is already registered
+[00:29:57.322] Server  WARN    The kernel 'Atan2' for backend 'webgl' is already registered
+[00:29:57.323] Server  WARN    The kernel 'Atanh' for backend 'webgl' is already registered
+[00:29:57.325] Server  WARN    The kernel 'AvgPool' for backend 'webgl' is already registered
+[00:29:57.326] Server  WARN    The kernel 'AvgPool3D' for backend 'webgl' is already registered
+[00:29:57.327] Server  WARN    The kernel 'AvgPool3DGrad' for backend 'webgl' is already registered
+[00:29:57.328] Server  WARN    The kernel 'AvgPoolGrad' for backend 'webgl' is already registered
+[00:29:57.328] Server  WARN    The kernel 'BatchMatMul' for backend 'webgl' is already registered
+[00:29:57.329] Server  WARN    The kernel 'FusedBatchNorm' for backend 'webgl' is already registered
+[00:29:57.330] Server  WARN    The kernel 'BatchToSpaceND' for backend 'webgl' is already registered
+[00:29:57.332] Server  WARN    The kernel 'Bincount' for backend 'webgl' is already registered
+[00:29:57.333] Server  WARN    The kernel 'BitwiseAnd' for backend 'webgl' is already registered
+[00:29:57.334] Server  WARN    The kernel 'BroadcastArgs' for backend 'webgl' is already registered
+[00:29:57.335] Server  WARN    The kernel 'Cast' for backend 'webgl' is already registered
+[00:29:57.335] Server  WARN    The kernel 'Ceil' for backend 'webgl' is already registered
+[00:29:57.336] Server  WARN    The kernel 'ClipByValue' for backend 'webgl' is already registered
+[00:29:57.336] Server  WARN    The kernel 'Complex' for backend 'webgl' is already registered
+[00:29:57.337] Server  WARN    The kernel 'ComplexAbs' for backend 'webgl' is already registered
+[00:29:57.338] Server  WARN    The kernel 'Concat' for backend 'webgl' is already registered
+[00:29:57.340] Server  WARN    The kernel 'Conv2D' for backend 'webgl' is already registered
+[00:29:57.341] Server  WARN    The kernel 'Conv2DBackpropFilter' for backend 'webgl' is already registered
+[00:29:57.342] Server  WARN    The kernel 'Conv2DBackpropInput' for backend 'webgl' is already registered
+[00:29:57.342] Server  WARN    The kernel 'Conv3D' for backend 'webgl' is already registered
+[00:29:57.343] Server  WARN    The kernel 'Conv3DBackpropFilterV2' for backend 'webgl' is already registered
+[00:29:57.344] Server  WARN    The kernel 'Conv3DBackpropInputV2' for backend 'webgl' is already registered
+[00:29:57.346] Server  WARN    The kernel 'Cos' for backend 'webgl' is already registered
+[00:29:57.351] Server  WARN    The kernel 'Cosh' for backend 'webgl' is already registered
+[00:29:57.352] Server  WARN    The kernel 'CropAndResize' for backend 'webgl' is already registered
+[00:29:57.354] Server  WARN    The kernel 'Cumprod' for backend 'webgl' is already registered
+[00:29:57.356] Server  WARN    The kernel 'Cumsum' for backend 'webgl' is already registered
+[00:29:57.357] Server  WARN    The kernel 'DenseBincount' for backend 'webgl' is already registered
+[00:29:57.358] Server  WARN    The kernel 'DepthToSpace' for backend 'webgl' is already registered
+[00:29:57.359] Server  WARN    The kernel 'DepthwiseConv2dNative' for backend 'webgl' is already registered
+[00:29:57.361] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropFilter' for backend 'webgl' is already registered
+[00:29:57.362] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropInput' for backend 'webgl' is already registered
+[00:29:57.362] Server  WARN    The kernel 'Diag' for backend 'webgl' is already registered
+[00:29:57.363] Server  WARN    The kernel 'Dilation2D' for backend 'webgl' is already registered
+[00:29:57.364] Server  WARN    The kernel 'Einsum' for backend 'webgl' is already registered
+[00:29:57.365] Server  WARN    The kernel 'Elu' for backend 'webgl' is already registered
+[00:29:57.366] Server  WARN    The kernel 'EluGrad' for backend 'webgl' is already registered
+[00:29:57.384] Server  WARN    The kernel 'Equal' for backend 'webgl' is already registered
+[00:29:57.392] Server  WARN    The kernel 'Erf' for backend 'webgl' is already registered
+[00:29:57.399] Server  WARN    The kernel 'Exp' for backend 'webgl' is already registered
+[00:29:57.408] Server  WARN    The kernel 'ExpandDims' for backend 'webgl' is already registered
+[00:29:57.419] Server  WARN    The kernel 'Expm1' for backend 'webgl' is already registered
+[00:29:57.429] Server  WARN    The kernel 'FFT' for backend 'webgl' is already registered
+[00:29:57.436] Server  WARN    The kernel 'Fill' for backend 'webgl' is already registered
+[00:29:57.443] Server  WARN    The kernel 'FlipLeftRight' for backend 'webgl' is already registered
+[00:29:57.451] Server  WARN    The kernel 'Floor' for backend 'webgl' is already registered
+[00:29:57.458] Server  WARN    The kernel 'FloorDiv' for backend 'webgl' is already registered
+[00:29:57.463] Server  WARN    The kernel 'FromPixels' for backend 'webgl' is already registered
+[00:29:57.468] Server  WARN    The kernel 'FusedConv2D' for backend 'webgl' is already registered
+[00:29:57.474] Server  WARN    The kernel 'FusedDepthwiseConv2D' for backend 'webgl' is already registered
+[00:29:57.479] Server  WARN    The kernel 'GatherNd' for backend 'webgl' is already registered
+[00:29:57.485] Server  WARN    The kernel 'GatherV2' for backend 'webgl' is already registered
+[00:29:57.492] Server  WARN    The kernel 'Greater' for backend 'webgl' is already registered
+[00:29:57.498] Server  WARN    The kernel 'GreaterEqual' for backend 'webgl' is already registered
+[00:29:57.504] Server  WARN    The kernel 'Identity' for backend 'webgl' is already registered
+[00:29:57.510] Server  WARN    The kernel 'IFFT' for backend 'webgl' is already registered
+[00:29:57.516] Server  WARN    The kernel 'Imag' for backend 'webgl' is already registered
+[00:29:57.520] Server  WARN    The kernel 'IsFinite' for backend 'webgl' is already registered
+[00:29:57.526] Server  WARN    The kernel 'IsInf' for backend 'webgl' is already registered
+[00:29:57.530] Server  WARN    The kernel 'IsNan' for backend 'webgl' is already registered
+[00:29:57.540] Server  WARN    The kernel 'LeakyRelu' for backend 'webgl' is already registered
+[00:29:57.547] Server  WARN    The kernel 'Less' for backend 'webgl' is already registered
+[00:29:57.553] Server  WARN    The kernel 'LessEqual' for backend 'webgl' is already registered
+[00:29:57.560] Server  WARN    The kernel 'LinSpace' for backend 'webgl' is already registered
+[00:29:57.567] Server  WARN    The kernel 'Log' for backend 'webgl' is already registered
+[00:29:57.574] Server  WARN    The kernel 'Log1p' for backend 'webgl' is already registered
+[00:29:57.580] Server  WARN    The kernel 'LogicalAnd' for backend 'webgl' is already registered
+[00:29:57.585] Server  WARN    The kernel 'LogicalNot' for backend 'webgl' is already registered
+[00:29:57.593] Server  WARN    The kernel 'LogicalOr' for backend 'webgl' is already registered
+[00:29:57.600] Server  WARN    The kernel 'LRN' for backend 'webgl' is already registered
+[00:29:57.607] Server  WARN    The kernel 'LRNGrad' for backend 'webgl' is already registered
+[00:29:57.614] Server  WARN    The kernel 'Max' for backend 'webgl' is already registered
+[00:29:57.619] Server  WARN    The kernel 'Maximum' for backend 'webgl' is already registered
+[00:29:57.627] Server  WARN    The kernel 'MaxPool' for backend 'webgl' is already registered
+[00:29:57.633] Server  WARN    The kernel 'MaxPool3D' for backend 'webgl' is already registered
+[00:29:57.635] Server  WARN    The kernel 'MaxPool3DGrad' for backend 'webgl' is already registered
+[00:29:57.636] Server  WARN    The kernel 'MaxPoolGrad' for backend 'webgl' is already registered
+[00:29:57.638] Server  WARN    The kernel 'MaxPoolWithArgmax' for backend 'webgl' is already registered
+[00:29:57.639] Server  WARN    The kernel 'Mean' for backend 'webgl' is already registered
+[00:29:57.641] Server  WARN    The kernel 'Min' for backend 'webgl' is already registered
+[00:29:57.677] Server  WARN    The kernel 'Minimum' for backend 'webgl' is already registered
+[00:29:57.683] Server  WARN    The kernel 'MirrorPad' for backend 'webgl' is already registered
+[00:29:57.688] Server  WARN    The kernel 'Mod' for backend 'webgl' is already registered
+[00:29:57.694] Server  WARN    The kernel 'Multinomial' for backend 'webgl' is already registered
+[00:29:57.701] Server  WARN    The kernel 'Multiply' for backend 'webgl' is already registered
+[00:29:57.704] Server  WARN    The kernel 'Neg' for backend 'webgl' is already registered
+[00:29:57.710] Server  WARN    The kernel 'NonMaxSuppressionV3' for backend 'webgl' is already registered
+[00:29:57.717] Server  WARN    The kernel 'NonMaxSuppressionV4' for backend 'webgl' is already registered
+[00:29:57.717] Server  WARN    The kernel 'NonMaxSuppressionV5' for backend 'webgl' is already registered
+[00:29:57.718] Server  WARN    The kernel 'NotEqual' for backend 'webgl' is already registered
+[00:29:57.718] Server  WARN    The kernel 'OneHot' for backend 'webgl' is already registered
+[00:29:57.719] Server  WARN    The kernel 'OnesLike' for backend 'webgl' is already registered
+[00:29:57.720] Server  WARN    The kernel 'Pack' for backend 'webgl' is already registered
+[00:29:57.720] Server  WARN    The kernel 'PadV2' for backend 'webgl' is already registered
+[00:29:57.722] Server  WARN    The kernel 'Pow' for backend 'webgl' is already registered
+[00:29:57.722] Server  WARN    The kernel 'Prelu' for backend 'webgl' is already registered
+[00:29:57.723] Server  WARN    The kernel 'Prod' for backend 'webgl' is already registered
+[00:29:57.724] Server  WARN    The kernel 'RaggedGather' for backend 'webgl' is already registered
+[00:29:57.724] Server  WARN    The kernel 'RaggedRange' for backend 'webgl' is already registered
+[00:29:57.725] Server  WARN    The kernel 'RaggedTensorToTensor' for backend 'webgl' is already registered
+[00:29:57.726] Server  WARN    The kernel 'Range' for backend 'webgl' is already registered
+[00:29:57.727] Server  WARN    The kernel 'Real' for backend 'webgl' is already registered
+[00:29:57.729] Server  WARN    The kernel 'RealDiv' for backend 'webgl' is already registered
+[00:29:57.730] Server  WARN    The kernel 'Reciprocal' for backend 'webgl' is already registered
+[00:29:57.732] Server  WARN    The kernel 'Relu' for backend 'webgl' is already registered
+[00:29:57.733] Server  WARN    The kernel 'Relu6' for backend 'webgl' is already registered
+[00:29:57.734] Server  WARN    The kernel 'Reshape' for backend 'webgl' is already registered
+[00:29:57.735] Server  WARN    The kernel 'ResizeBilinear' for backend 'webgl' is already registered
+[00:29:57.737] Server  WARN    The kernel 'ResizeBilinearGrad' for backend 'webgl' is already registered
+[00:29:57.738] Server  WARN    The kernel 'ResizeNearestNeighbor' for backend 'webgl' is already registered
+[00:29:57.739] Server  WARN    The kernel 'ResizeNearestNeighborGrad' for backend 'webgl' is already registered
+[00:29:57.740] Server  WARN    The kernel 'Reverse' for backend 'webgl' is already registered
+[00:29:57.741] Server  WARN    The kernel 'RotateWithOffset' for backend 'webgl' is already registered
+[00:29:57.742] Server  WARN    The kernel 'Round' for backend 'webgl' is already registered
+[00:29:57.743] Server  WARN    The kernel 'Rsqrt' for backend 'webgl' is already registered
+[00:29:57.744] Server  WARN    The kernel 'ScatterNd' for backend 'webgl' is already registered
+[00:29:57.745] Server  WARN    The kernel 'SearchSorted' for backend 'webgl' is already registered
+[00:29:57.746] Server  WARN    The kernel 'Select' for backend 'webgl' is already registered
+[00:29:57.747] Server  WARN    The kernel 'Selu' for backend 'webgl' is already registered
+[00:29:57.747] Server  WARN    The kernel 'Sigmoid' for backend 'webgl' is already registered
+[00:29:57.749] Server  WARN    The kernel 'Sign' for backend 'webgl' is already registered
+[00:29:57.750] Server  WARN    The kernel 'Sin' for backend 'webgl' is already registered
+[00:29:57.751] Server  WARN    The kernel 'Sinh' for backend 'webgl' is already registered
+[00:29:57.751] Server  WARN    The kernel 'Slice' for backend 'webgl' is already registered
+[00:29:57.752] Server  WARN    The kernel 'Softmax' for backend 'webgl' is already registered
+[00:29:57.753] Server  WARN    The kernel 'Softplus' for backend 'webgl' is already registered
+[00:29:57.753] Server  WARN    The kernel 'SpaceToBatchND' for backend 'webgl' is already registered
+[00:29:57.754] Server  WARN    The kernel 'SparseFillEmptyRows' for backend 'webgl' is already registered
+[00:29:57.754] Server  WARN    The kernel 'SparseReshape' for backend 'webgl' is already registered
+[00:29:57.755] Server  WARN    The kernel 'SparseSegmentMean' for backend 'webgl' is already registered
+[00:29:57.756] Server  WARN    The kernel 'SparseSegmentSum' for backend 'webgl' is already registered
+[00:29:57.757] Server  WARN    The kernel 'SparseToDense' for backend 'webgl' is already registered
+[00:29:57.758] Server  WARN    The kernel 'SplitV' for backend 'webgl' is already registered
+[00:29:57.759] Server  WARN    The kernel 'Sqrt' for backend 'webgl' is already registered
+[00:29:57.760] Server  WARN    The kernel 'Square' for backend 'webgl' is already registered
+[00:29:57.761] Server  WARN    The kernel 'SquaredDifference' for backend 'webgl' is already registered
+[00:29:57.762] Server  WARN    The kernel 'StaticRegexReplace' for backend 'webgl' is already registered
+[00:29:57.764] Server  WARN    The kernel 'Step' for backend 'webgl' is already registered
+[00:29:57.765] Server  WARN    The kernel 'StridedSlice' for backend 'webgl' is already registered
+[00:29:57.766] Server  WARN    The kernel 'StringNGrams' for backend 'webgl' is already registered
+[00:29:57.766] Server  WARN    The kernel 'StringSplit' for backend 'webgl' is already registered
+[00:29:57.767] Server  WARN    The kernel 'StringToHashBucketFast' for backend 'webgl' is already registered
+[00:29:57.769] Server  WARN    The kernel 'Sub' for backend 'webgl' is already registered
+[00:29:57.770] Server  WARN    The kernel 'Sum' for backend 'webgl' is already registered
+[00:29:57.771] Server  WARN    The kernel 'Tan' for backend 'webgl' is already registered
+[00:29:57.771] Server  WARN    The kernel 'Tanh' for backend 'webgl' is already registered
+[00:29:57.772] Server  WARN    The kernel 'TensorScatterUpdate' for backend 'webgl' is already registered
+[00:29:57.773] Server  WARN    The kernel 'Tile' for backend 'webgl' is already registered
+[00:29:57.775] Server  WARN    The kernel 'TopK' for backend 'webgl' is already registered
+[00:29:57.776] Server  WARN    The kernel 'Transform' for backend 'webgl' is already registered
+[00:29:57.777] Server  WARN    The kernel 'Transpose' for backend 'webgl' is already registered
+[00:29:57.778] Server  WARN    The kernel 'Unique' for backend 'webgl' is already registered
+[00:29:57.780] Server  WARN    The kernel 'Unpack' for backend 'webgl' is already registered
+[00:29:57.780] Server  WARN    The kernel 'UnsortedSegmentSum' for backend 'webgl' is already registered
+[00:29:57.782] Server  WARN    The kernel 'ZerosLike' for backend 'webgl' is already registered
+[00:29:58.323] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:59.407] Browser LOG     Loading TFJS models...
+[00:29:59.407] Browser ERROR   Supabase getUser error {"__isAuthError":true,"name":"AuthSessionMissingError","status":400}
+[00:29:59.407] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:29:59.407] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dualvision","route":"/dualvision"}
+[00:29:59.407] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657883572}
+[00:29:59.407] Browser LOG     I1213 20:31:23.726000 1866800 gl_context.cc:361] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL
+[00:29:59.407] Browser WARN    W1213 20:31:23.726000 1866800 gl_context.cc:1004] OpenGL error checking is disabled
+[00:29:59.407] Browser LOG     Graph successfully started running.
+[00:29:59.407] Browser LOG     MediaPipe EfficientDet-Lite0 loaded
+[00:29:59.407] Browser LOG     Models ready ✔
+[00:30:09.233] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657893539}
+[00:30:09.375] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:30:10.721] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657895039}
+[00:30:49.648] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:49.649] Server  ERROR   TypeError: fetch failed
+[00:30:53.998] Server  LOG      ✓ Compiled in 95ms
+[00:31:00.228] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:00.229] Server  ERROR   TypeError: fetch failed
+[00:31:07.446] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:31:07.446] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:31:07.446] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657950783}
+[00:31:24.134] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/live color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/live","o":"http://localhost:3000/dashboard/live","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765657968445}
+[00:31:31.069] Browser LOG     Could not get context for WebGL version 2
+[00:31:31.069] Browser LOG     Could not get context for WebGL version 1
+[00:31:31.069] Browser WARN    Initialization of backend webgl failed
+[00:31:31.069] Browser WARN    Error: WebGL is not supported on this device
+    at new MathBackendWebGL (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-backend-webgl_dist_backend_webgl_bf692b2d.js:132:19)
+    at Object.factory (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-backend-webgl_dist_c3aeee91._.js:4423:205)
+    at Engine.initializeBackend (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_engine_b74dcfe9.js:219:50)
+    at Engine.ready (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_engine_b74dcfe9.js:116:40)
+    at Module.ready (http://localhost:3000/_next/static/chunks/node_modules_%40tensorflow_tfjs-core_dist_14e345ef._.js:3268:184)
+    at ensureTFReady (http://localhost:3000/_next/static/chunks/_10853e6a._.js:838:190)
+    at runRealDrowsinessDetection (http://localhost:3000/_next/static/chunks/_10853e6a._.js:882:11)
+    at LiveDetectionPage.useCallback[runDetection] (http://localhost:3000/_next/static/chunks/_47e54066._.js:1714:195)
+[00:31:41.614] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:41.618] Server  ERROR   TypeError: fetch failed
+[00:31:52.319] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:52.321] Server  ERROR   TypeError: fetch failed
+[00:32:02.865] Browser LOG     FaceMesh model loaded (local)
+[00:32:02.865] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"73.8%","raw":"0.230","state":"ALERT"}
+[00:32:02.865] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"74.1%","raw":"0.245","state":"ALERT"}
+[00:32:19.467] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"57.9%","raw":"0.203","state":"ALERT"}
+[00:32:42.258] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"47.1%","raw":"0.191","state":"DROWSY"}
+[00:33:09.078] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"74.1%","raw":"0.224","state":"ALERT"}
+[00:33:21.004] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658085322}
+[00:33:22.643] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658086958}
+[00:33:24.496] Browser LOG     Loading TFJS models...
+[00:33:24.496] Browser LOG     Loading TFJS models...
+[00:33:24.496] Browser LOG     Models ready ✔
+[00:33:24.496] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658088788}
+[00:33:41.331] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"66.8%","raw":"0.214","state":"ALERT"}
+[00:33:48.899] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"45.9%","raw":"0.185","state":"DROWSY"}
+[00:33:56.348] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"39.5%","raw":"0.177","state":"ALERT"}
+[00:34:03.848] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"60.3%","raw":"0.197","state":"ALERT"}
+[00:34:11.525] Browser LOG     Biometric Eye State: {"isBlink":false,"isMicrosleep":false,"openness":"24.7%","raw":"0.163","state":"ALERT"}
+[00:34:19.070] Server  LOG     📧 Email sent: <d1b24971-d395-fb09-b011-73fdbbdd8d61@gmail.com>
+[00:34:56.440] Server  WARN    Platform node has already been set. Overwriting the platform with node.
+[00:34:56.468] Server  WARN    cpu backend was already registered. Reusing existing backend factory.
+[00:34:56.471] Server  WARN    The kernel '_FusedMatMul' for backend 'cpu' is already registered
+[00:34:56.472] Server  WARN    The kernel 'Abs' for backend 'cpu' is already registered
+[00:34:56.473] Server  WARN    The kernel 'Acos' for backend 'cpu' is already registered
+[00:34:56.474] Server  WARN    The kernel 'Acosh' for backend 'cpu' is already registered
+[00:34:56.474] Server  WARN    The kernel 'Add' for backend 'cpu' is already registered
+[00:34:56.475] Server  WARN    The kernel 'AddN' for backend 'cpu' is already registered
+[00:34:56.476] Server  WARN    The kernel 'All' for backend 'cpu' is already registered
+[00:34:56.477] Server  WARN    The kernel 'Any' for backend 'cpu' is already registered
+[00:34:56.477] Server  WARN    The kernel 'ArgMax' for backend 'cpu' is already registered
+[00:34:56.478] Server  WARN    The kernel 'ArgMin' for backend 'cpu' is already registered
+[00:34:56.479] Server  WARN    The kernel 'Asin' for backend 'cpu' is already registered
+[00:34:56.479] Server  WARN    The kernel 'Asinh' for backend 'cpu' is already registered
+[00:34:56.480] Server  WARN    The kernel 'Atan' for backend 'cpu' is already registered
+[00:34:56.481] Server  WARN    The kernel 'Atan2' for backend 'cpu' is already registered
+[00:34:56.482] Server  WARN    The kernel 'Atanh' for backend 'cpu' is already registered
+[00:34:56.482] Server  WARN    The kernel 'AvgPool' for backend 'cpu' is already registered
+[00:34:56.483] Server  WARN    The kernel 'AvgPool3D' for backend 'cpu' is already registered
+[00:34:56.483] Server  WARN    The kernel 'AvgPool3DGrad' for backend 'cpu' is already registered
+[00:34:56.484] Server  WARN    The kernel 'AvgPoolGrad' for backend 'cpu' is already registered
+[00:34:56.485] Server  WARN    The kernel 'BatchMatMul' for backend 'cpu' is already registered
+[00:34:56.485] Server  WARN    The kernel 'FusedBatchNorm' for backend 'cpu' is already registered
+[00:34:56.486] Server  WARN    The kernel 'BatchToSpaceND' for backend 'cpu' is already registered
+[00:34:56.487] Server  WARN    The kernel 'Bincount' for backend 'cpu' is already registered
+[00:34:56.487] Server  WARN    The kernel 'BitwiseAnd' for backend 'cpu' is already registered
+[00:34:56.488] Server  WARN    The kernel 'BroadcastArgs' for backend 'cpu' is already registered
+[00:34:56.489] Server  WARN    The kernel 'Cast' for backend 'cpu' is already registered
+[00:34:56.489] Server  WARN    The kernel 'Ceil' for backend 'cpu' is already registered
+[00:34:56.490] Server  WARN    The kernel 'ClipByValue' for backend 'cpu' is already registered
+[00:34:56.491] Server  WARN    The kernel 'Complex' for backend 'cpu' is already registered
+[00:34:56.492] Server  WARN    The kernel 'ComplexAbs' for backend 'cpu' is already registered
+[00:34:56.492] Server  WARN    The kernel 'Concat' for backend 'cpu' is already registered
+[00:34:56.494] Server  WARN    The kernel 'Conv2D' for backend 'cpu' is already registered
+[00:34:56.494] Server  WARN    The kernel 'Conv2DBackpropFilter' for backend 'cpu' is already registered
+[00:34:56.495] Server  WARN    The kernel 'Conv2DBackpropInput' for backend 'cpu' is already registered
+[00:34:56.496] Server  WARN    The kernel 'Conv3D' for backend 'cpu' is already registered
+[00:34:56.497] Server  WARN    The kernel 'Conv3DBackpropFilterV2' for backend 'cpu' is already registered
+[00:34:56.497] Server  WARN    The kernel 'Conv3DBackpropInputV2' for backend 'cpu' is already registered
+[00:34:56.498] Server  WARN    The kernel 'Cos' for backend 'cpu' is already registered
+[00:34:56.499] Server  WARN    The kernel 'Cosh' for backend 'cpu' is already registered
+[00:34:56.500] Server  WARN    The kernel 'CropAndResize' for backend 'cpu' is already registered
+[00:34:56.501] Server  WARN    The kernel 'Cumprod' for backend 'cpu' is already registered
+[00:34:56.502] Server  WARN    The kernel 'Cumsum' for backend 'cpu' is already registered
+[00:34:56.502] Server  WARN    The kernel 'DenseBincount' for backend 'cpu' is already registered
+[00:34:56.503] Server  WARN    The kernel 'DepthToSpace' for backend 'cpu' is already registered
+[00:34:56.504] Server  WARN    The kernel 'DepthwiseConv2dNative' for backend 'cpu' is already registered
+[00:34:56.504] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropFilter' for backend 'cpu' is already registered
+[00:34:56.505] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropInput' for backend 'cpu' is already registered
+[00:34:56.506] Server  WARN    The kernel 'Diag' for backend 'cpu' is already registered
+[00:34:56.507] Server  WARN    The kernel 'Dilation2D' for backend 'cpu' is already registered
+[00:34:56.508] Server  WARN    The kernel 'Dilation2DBackpropFilter' for backend 'cpu' is already registered
+[00:34:56.509] Server  WARN    The kernel 'Dilation2DBackpropInput' for backend 'cpu' is already registered
+[00:34:56.509] Server  WARN    The kernel 'Draw' for backend 'cpu' is already registered
+[00:34:56.510] Server  WARN    The kernel 'Einsum' for backend 'cpu' is already registered
+[00:34:56.511] Server  WARN    The kernel 'Elu' for backend 'cpu' is already registered
+[00:34:56.512] Server  WARN    The kernel 'EluGrad' for backend 'cpu' is already registered
+[00:34:56.512] Server  WARN    The kernel 'Equal' for backend 'cpu' is already registered
+[00:34:56.513] Server  WARN    The kernel 'Erf' for backend 'cpu' is already registered
+[00:34:56.514] Server  WARN    The kernel 'Exp' for backend 'cpu' is already registered
+[00:34:56.515] Server  WARN    The kernel 'ExpandDims' for backend 'cpu' is already registered
+[00:34:56.516] Server  WARN    The kernel 'Expm1' for backend 'cpu' is already registered
+[00:34:56.516] Server  WARN    The kernel 'FFT' for backend 'cpu' is already registered
+[00:34:56.517] Server  WARN    The kernel 'Fill' for backend 'cpu' is already registered
+[00:34:56.518] Server  WARN    The kernel 'FlipLeftRight' for backend 'cpu' is already registered
+[00:34:56.518] Server  WARN    The kernel 'Floor' for backend 'cpu' is already registered
+[00:34:56.519] Server  WARN    The kernel 'FloorDiv' for backend 'cpu' is already registered
+[00:34:56.520] Server  WARN    The kernel 'FusedConv2D' for backend 'cpu' is already registered
+[00:34:56.520] Server  WARN    The kernel 'FusedDepthwiseConv2D' for backend 'cpu' is already registered
+[00:34:56.521] Server  WARN    The kernel 'GatherNd' for backend 'cpu' is already registered
+[00:34:56.521] Server  WARN    The kernel 'GatherV2' for backend 'cpu' is already registered
+[00:34:56.522] Server  WARN    The kernel 'Greater' for backend 'cpu' is already registered
+[00:34:56.523] Server  WARN    The kernel 'GreaterEqual' for backend 'cpu' is already registered
+[00:34:56.523] Server  WARN    The kernel 'Identity' for backend 'cpu' is already registered
+[00:34:56.524] Server  WARN    The kernel 'IFFT' for backend 'cpu' is already registered
+[00:34:56.525] Server  WARN    The kernel 'Imag' for backend 'cpu' is already registered
+[00:34:56.525] Server  WARN    The kernel 'IsFinite' for backend 'cpu' is already registered
+[00:34:56.526] Server  WARN    The kernel 'IsInf' for backend 'cpu' is already registered
+[00:34:56.526] Server  WARN    The kernel 'IsNan' for backend 'cpu' is already registered
+[00:34:56.527] Server  WARN    The kernel 'LeakyRelu' for backend 'cpu' is already registered
+[00:34:56.528] Server  WARN    The kernel 'Less' for backend 'cpu' is already registered
+[00:34:56.529] Server  WARN    The kernel 'LessEqual' for backend 'cpu' is already registered
+[00:34:56.530] Server  WARN    The kernel 'LinSpace' for backend 'cpu' is already registered
+[00:34:56.531] Server  WARN    The kernel 'Log' for backend 'cpu' is already registered
+[00:34:56.532] Server  WARN    The kernel 'Log1p' for backend 'cpu' is already registered
+[00:34:56.533] Server  WARN    The kernel 'LogicalAnd' for backend 'cpu' is already registered
+[00:34:56.533] Server  WARN    The kernel 'LogicalNot' for backend 'cpu' is already registered
+[00:34:56.533] Server  WARN    The kernel 'LogicalOr' for backend 'cpu' is already registered
+[00:34:56.534] Server  WARN    The kernel 'LRN' for backend 'cpu' is already registered
+[00:34:56.536] Server  WARN    The kernel 'LRNGrad' for backend 'cpu' is already registered
+[00:34:56.537] Server  WARN    The kernel 'Max' for backend 'cpu' is already registered
+[00:34:56.539] Server  WARN    The kernel 'Maximum' for backend 'cpu' is already registered
+[00:34:56.539] Server  WARN    The kernel 'MaxPool' for backend 'cpu' is already registered
+[00:34:56.540] Server  WARN    The kernel 'MaxPool3D' for backend 'cpu' is already registered
+[00:34:56.541] Server  WARN    The kernel 'MaxPool3DGrad' for backend 'cpu' is already registered
+[00:34:56.542] Server  WARN    The kernel 'MaxPoolGrad' for backend 'cpu' is already registered
+[00:34:56.542] Server  WARN    The kernel 'MaxPoolWithArgmax' for backend 'cpu' is already registered
+[00:34:56.543] Server  WARN    The kernel 'Mean' for backend 'cpu' is already registered
+[00:34:56.544] Server  WARN    The kernel 'Min' for backend 'cpu' is already registered
+[00:34:56.545] Server  WARN    The kernel 'Minimum' for backend 'cpu' is already registered
+[00:34:56.546] Server  WARN    The kernel 'MirrorPad' for backend 'cpu' is already registered
+[00:34:56.547] Server  WARN    The kernel 'Mod' for backend 'cpu' is already registered
+[00:34:56.547] Server  WARN    The kernel 'Multinomial' for backend 'cpu' is already registered
+[00:34:56.548] Server  WARN    The kernel 'Multiply' for backend 'cpu' is already registered
+[00:34:56.549] Server  WARN    The kernel 'Neg' for backend 'cpu' is already registered
+[00:34:56.549] Server  WARN    The kernel 'NonMaxSuppressionV3' for backend 'cpu' is already registered
+[00:34:56.550] Server  WARN    The kernel 'NonMaxSuppressionV4' for backend 'cpu' is already registered
+[00:34:56.551] Server  WARN    The kernel 'NonMaxSuppressionV5' for backend 'cpu' is already registered
+[00:34:56.552] Server  WARN    The kernel 'NotEqual' for backend 'cpu' is already registered
+[00:34:56.553] Server  WARN    The kernel 'OneHot' for backend 'cpu' is already registered
+[00:34:56.553] Server  WARN    The kernel 'OnesLike' for backend 'cpu' is already registered
+[00:34:56.554] Server  WARN    The kernel 'Pack' for backend 'cpu' is already registered
+[00:34:56.555] Server  WARN    The kernel 'PadV2' for backend 'cpu' is already registered
+[00:34:56.556] Server  WARN    The kernel 'Pow' for backend 'cpu' is already registered
+[00:34:56.557] Server  WARN    The kernel 'Prelu' for backend 'cpu' is already registered
+[00:34:56.557] Server  WARN    The kernel 'Prod' for backend 'cpu' is already registered
+[00:34:56.558] Server  WARN    The kernel 'RaggedGather' for backend 'cpu' is already registered
+[00:34:56.558] Server  WARN    The kernel 'RaggedRange' for backend 'cpu' is already registered
+[00:34:56.560] Server  WARN    The kernel 'RaggedTensorToTensor' for backend 'cpu' is already registered
+[00:34:56.561] Server  WARN    The kernel 'Range' for backend 'cpu' is already registered
+[00:34:56.562] Server  WARN    The kernel 'Real' for backend 'cpu' is already registered
+[00:34:56.563] Server  WARN    The kernel 'RealDiv' for backend 'cpu' is already registered
+[00:34:56.563] Server  WARN    The kernel 'Reciprocal' for backend 'cpu' is already registered
+[00:34:56.564] Server  WARN    The kernel 'Relu' for backend 'cpu' is already registered
+[00:34:56.565] Server  WARN    The kernel 'Relu6' for backend 'cpu' is already registered
+[00:34:56.566] Server  WARN    The kernel 'Reshape' for backend 'cpu' is already registered
+[00:34:56.568] Server  WARN    The kernel 'ResizeBilinear' for backend 'cpu' is already registered
+[00:34:56.569] Server  WARN    The kernel 'ResizeBilinearGrad' for backend 'cpu' is already registered
+[00:34:56.570] Server  WARN    The kernel 'ResizeNearestNeighbor' for backend 'cpu' is already registered
+[00:34:56.571] Server  WARN    The kernel 'ResizeNearestNeighborGrad' for backend 'cpu' is already registered
+[00:34:56.572] Server  WARN    The kernel 'Reverse' for backend 'cpu' is already registered
+[00:34:56.573] Server  WARN    The kernel 'RotateWithOffset' for backend 'cpu' is already registered
+[00:34:56.574] Server  WARN    The kernel 'Round' for backend 'cpu' is already registered
+[00:34:56.575] Server  WARN    The kernel 'Rsqrt' for backend 'cpu' is already registered
+[00:34:56.576] Server  WARN    The kernel 'ScatterNd' for backend 'cpu' is already registered
+[00:34:56.577] Server  WARN    The kernel 'SearchSorted' for backend 'cpu' is already registered
+[00:34:56.577] Server  WARN    The kernel 'Select' for backend 'cpu' is already registered
+[00:34:56.578] Server  WARN    The kernel 'Selu' for backend 'cpu' is already registered
+[00:34:56.579] Server  WARN    The kernel 'Sigmoid' for backend 'cpu' is already registered
+[00:34:56.580] Server  WARN    The kernel 'Sign' for backend 'cpu' is already registered
+[00:34:56.581] Server  WARN    The kernel 'Sin' for backend 'cpu' is already registered
+[00:34:56.582] Server  WARN    The kernel 'Sinh' for backend 'cpu' is already registered
+[00:34:56.582] Server  WARN    The kernel 'Slice' for backend 'cpu' is already registered
+[00:34:56.583] Server  WARN    The kernel 'Softmax' for backend 'cpu' is already registered
+[00:34:56.586] Server  WARN    The kernel 'Softplus' for backend 'cpu' is already registered
+[00:34:56.589] Server  WARN    The kernel 'SpaceToBatchND' for backend 'cpu' is already registered
+[00:34:56.590] Server  WARN    The kernel 'SparseFillEmptyRows' for backend 'cpu' is already registered
+[00:34:56.591] Server  WARN    The kernel 'SparseReshape' for backend 'cpu' is already registered
+[00:34:56.592] Server  WARN    The kernel 'SparseSegmentMean' for backend 'cpu' is already registered
+[00:34:56.593] Server  WARN    The kernel 'SparseSegmentSum' for backend 'cpu' is already registered
+[00:34:56.594] Server  WARN    The kernel 'SparseToDense' for backend 'cpu' is already registered
+[00:34:56.595] Server  WARN    The kernel 'SplitV' for backend 'cpu' is already registered
+[00:34:56.596] Server  WARN    The kernel 'Sqrt' for backend 'cpu' is already registered
+[00:34:56.597] Server  WARN    The kernel 'Square' for backend 'cpu' is already registered
+[00:34:56.598] Server  WARN    The kernel 'SquaredDifference' for backend 'cpu' is already registered
+[00:34:56.600] Server  WARN    The kernel 'StaticRegexReplace' for backend 'cpu' is already registered
+[00:34:56.602] Server  WARN    The kernel 'Step' for backend 'cpu' is already registered
+[00:34:56.603] Server  WARN    The kernel 'StridedSlice' for backend 'cpu' is already registered
+[00:34:56.604] Server  WARN    The kernel 'StringNGrams' for backend 'cpu' is already registered
+[00:34:56.605] Server  WARN    The kernel 'StringSplit' for backend 'cpu' is already registered
+[00:34:56.606] Server  WARN    The kernel 'StringToHashBucketFast' for backend 'cpu' is already registered
+[00:34:56.607] Server  WARN    The kernel 'Sub' for backend 'cpu' is already registered
+[00:34:56.611] Server  WARN    The kernel 'Sum' for backend 'cpu' is already registered
+[00:34:56.612] Server  WARN    The kernel 'Tan' for backend 'cpu' is already registered
+[00:34:56.628] Server  WARN    The kernel 'Tanh' for backend 'cpu' is already registered
+[00:34:56.635] Server  WARN    The kernel 'TensorScatterUpdate' for backend 'cpu' is already registered
+[00:34:56.645] Server  WARN    The kernel 'Tile' for backend 'cpu' is already registered
+[00:34:56.652] Server  WARN    The kernel 'TopK' for backend 'cpu' is already registered
+[00:34:56.663] Server  WARN    The kernel 'Transform' for backend 'cpu' is already registered
+[00:34:56.669] Server  WARN    The kernel 'Transpose' for backend 'cpu' is already registered
+[00:34:56.674] Server  WARN    The kernel 'Unique' for backend 'cpu' is already registered
+[00:34:56.676] Server  WARN    The kernel 'Unpack' for backend 'cpu' is already registered
+[00:34:56.680] Server  WARN    The kernel 'UnsortedSegmentSum' for backend 'cpu' is already registered
+[00:34:56.686] Server  WARN    The kernel 'ZerosLike' for backend 'cpu' is already registered
+[00:34:56.699] Server  WARN    The kernel '_FusedMatMul' for backend 'webgl' is already registered
+[00:34:56.705] Server  WARN    The kernel 'Abs' for backend 'webgl' is already registered
+[00:34:56.712] Server  WARN    The kernel 'Acos' for backend 'webgl' is already registered
+[00:34:56.718] Server  WARN    The kernel 'Acosh' for backend 'webgl' is already registered
+[00:34:56.726] Server  WARN    The kernel 'Add' for backend 'webgl' is already registered
+[00:34:56.733] Server  WARN    The kernel 'AddN' for backend 'webgl' is already registered
+[00:34:56.738] Server  WARN    The kernel 'All' for backend 'webgl' is already registered
+[00:34:56.745] Server  WARN    The kernel 'Any' for backend 'webgl' is already registered
+[00:34:56.755] Server  WARN    The kernel 'ArgMax' for backend 'webgl' is already registered
+[00:34:56.762] Server  WARN    The kernel 'ArgMin' for backend 'webgl' is already registered
+[00:34:56.772] Server  WARN    The kernel 'Asin' for backend 'webgl' is already registered
+[00:34:56.780] Server  WARN    The kernel 'Asinh' for backend 'webgl' is already registered
+[00:34:56.785] Server  WARN    The kernel 'Atan' for backend 'webgl' is already registered
+[00:34:56.792] Server  WARN    The kernel 'Atan2' for backend 'webgl' is already registered
+[00:34:56.799] Server  WARN    The kernel 'Atanh' for backend 'webgl' is already registered
+[00:34:56.807] Server  WARN    The kernel 'AvgPool' for backend 'webgl' is already registered
+[00:34:56.813] Server  WARN    The kernel 'AvgPool3D' for backend 'webgl' is already registered
+[00:34:56.820] Server  WARN    The kernel 'AvgPool3DGrad' for backend 'webgl' is already registered
+[00:34:56.826] Server  WARN    The kernel 'AvgPoolGrad' for backend 'webgl' is already registered
+[00:34:56.833] Server  WARN    The kernel 'BatchMatMul' for backend 'webgl' is already registered
+[00:34:56.839] Server  WARN    The kernel 'FusedBatchNorm' for backend 'webgl' is already registered
+[00:34:56.847] Server  WARN    The kernel 'BatchToSpaceND' for backend 'webgl' is already registered
+[00:34:56.850] Server  WARN    The kernel 'Bincount' for backend 'webgl' is already registered
+[00:34:56.856] Server  WARN    The kernel 'BitwiseAnd' for backend 'webgl' is already registered
+[00:34:56.861] Server  WARN    The kernel 'BroadcastArgs' for backend 'webgl' is already registered
+[00:34:56.865] Server  WARN    The kernel 'Cast' for backend 'webgl' is already registered
+[00:34:56.872] Server  WARN    The kernel 'Ceil' for backend 'webgl' is already registered
+[00:34:56.876] Server  WARN    The kernel 'ClipByValue' for backend 'webgl' is already registered
+[00:34:56.884] Server  WARN    The kernel 'Complex' for backend 'webgl' is already registered
+[00:34:56.885] Server  WARN    The kernel 'ComplexAbs' for backend 'webgl' is already registered
+[00:34:56.886] Server  WARN    The kernel 'Concat' for backend 'webgl' is already registered
+[00:34:56.887] Server  WARN    The kernel 'Conv2D' for backend 'webgl' is already registered
+[00:34:56.888] Server  WARN    The kernel 'Conv2DBackpropFilter' for backend 'webgl' is already registered
+[00:34:56.889] Server  WARN    The kernel 'Conv2DBackpropInput' for backend 'webgl' is already registered
+[00:34:56.929] Server  WARN    The kernel 'Conv3D' for backend 'webgl' is already registered
+[00:34:56.935] Server  WARN    The kernel 'Conv3DBackpropFilterV2' for backend 'webgl' is already registered
+[00:34:56.940] Server  WARN    The kernel 'Conv3DBackpropInputV2' for backend 'webgl' is already registered
+[00:34:56.947] Server  WARN    The kernel 'Cos' for backend 'webgl' is already registered
+[00:34:56.954] Server  WARN    The kernel 'Cosh' for backend 'webgl' is already registered
+[00:34:56.961] Server  WARN    The kernel 'CropAndResize' for backend 'webgl' is already registered
+[00:34:56.964] Server  WARN    The kernel 'Cumprod' for backend 'webgl' is already registered
+[00:34:56.972] Server  WARN    The kernel 'Cumsum' for backend 'webgl' is already registered
+[00:34:56.975] Server  WARN    The kernel 'DenseBincount' for backend 'webgl' is already registered
+[00:34:56.976] Server  WARN    The kernel 'DepthToSpace' for backend 'webgl' is already registered
+[00:34:56.977] Server  WARN    The kernel 'DepthwiseConv2dNative' for backend 'webgl' is already registered
+[00:34:56.978] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropFilter' for backend 'webgl' is already registered
+[00:34:56.979] Server  WARN    The kernel 'DepthwiseConv2dNativeBackpropInput' for backend 'webgl' is already registered
+[00:34:56.980] Server  WARN    The kernel 'Diag' for backend 'webgl' is already registered
+[00:34:56.981] Server  WARN    The kernel 'Dilation2D' for backend 'webgl' is already registered
+[00:34:56.982] Server  WARN    The kernel 'Einsum' for backend 'webgl' is already registered
+[00:34:56.983] Server  WARN    The kernel 'Elu' for backend 'webgl' is already registered
+[00:34:56.984] Server  WARN    The kernel 'EluGrad' for backend 'webgl' is already registered
+[00:34:56.984] Server  WARN    The kernel 'Equal' for backend 'webgl' is already registered
+[00:34:56.985] Server  WARN    The kernel 'Erf' for backend 'webgl' is already registered
+[00:34:56.986] Server  WARN    The kernel 'Exp' for backend 'webgl' is already registered
+[00:34:56.987] Server  WARN    The kernel 'ExpandDims' for backend 'webgl' is already registered
+[00:34:56.987] Server  WARN    The kernel 'Expm1' for backend 'webgl' is already registered
+[00:34:56.988] Server  WARN    The kernel 'FFT' for backend 'webgl' is already registered
+[00:34:56.989] Server  WARN    The kernel 'Fill' for backend 'webgl' is already registered
+[00:34:56.990] Server  WARN    The kernel 'FlipLeftRight' for backend 'webgl' is already registered
+[00:34:56.991] Server  WARN    The kernel 'Floor' for backend 'webgl' is already registered
+[00:34:56.992] Server  WARN    The kernel 'FloorDiv' for backend 'webgl' is already registered
+[00:34:56.993] Server  WARN    The kernel 'FromPixels' for backend 'webgl' is already registered
+[00:34:56.993] Server  WARN    The kernel 'FusedConv2D' for backend 'webgl' is already registered
+[00:34:56.994] Server  WARN    The kernel 'FusedDepthwiseConv2D' for backend 'webgl' is already registered
+[00:34:56.995] Server  WARN    The kernel 'GatherNd' for backend 'webgl' is already registered
+[00:34:56.996] Server  WARN    The kernel 'GatherV2' for backend 'webgl' is already registered
+[00:34:56.997] Server  WARN    The kernel 'Greater' for backend 'webgl' is already registered
+[00:34:56.998] Server  WARN    The kernel 'GreaterEqual' for backend 'webgl' is already registered
+[00:34:56.999] Server  WARN    The kernel 'Identity' for backend 'webgl' is already registered
+[00:34:57.000] Server  WARN    The kernel 'IFFT' for backend 'webgl' is already registered
+[00:34:57.000] Server  WARN    The kernel 'Imag' for backend 'webgl' is already registered
+[00:34:57.001] Server  WARN    The kernel 'IsFinite' for backend 'webgl' is already registered
+[00:34:57.002] Server  WARN    The kernel 'IsInf' for backend 'webgl' is already registered
+[00:34:57.002] Server  WARN    The kernel 'IsNan' for backend 'webgl' is already registered
+[00:34:57.003] Server  WARN    The kernel 'LeakyRelu' for backend 'webgl' is already registered
+[00:34:57.004] Server  WARN    The kernel 'Less' for backend 'webgl' is already registered
+[00:34:57.005] Server  WARN    The kernel 'LessEqual' for backend 'webgl' is already registered
+[00:34:57.007] Server  WARN    The kernel 'LinSpace' for backend 'webgl' is already registered
+[00:34:57.008] Server  WARN    The kernel 'Log' for backend 'webgl' is already registered
+[00:34:57.009] Server  WARN    The kernel 'Log1p' for backend 'webgl' is already registered
+[00:34:57.010] Server  WARN    The kernel 'LogicalAnd' for backend 'webgl' is already registered
+[00:34:57.012] Server  WARN    The kernel 'LogicalNot' for backend 'webgl' is already registered
+[00:34:57.013] Server  WARN    The kernel 'LogicalOr' for backend 'webgl' is already registered
+[00:34:57.014] Server  WARN    The kernel 'LRN' for backend 'webgl' is already registered
+[00:34:57.015] Server  WARN    The kernel 'LRNGrad' for backend 'webgl' is already registered
+[00:34:57.016] Server  WARN    The kernel 'Max' for backend 'webgl' is already registered
+[00:34:57.018] Server  WARN    The kernel 'Maximum' for backend 'webgl' is already registered
+[00:34:57.019] Server  WARN    The kernel 'MaxPool' for backend 'webgl' is already registered
+[00:34:57.020] Server  WARN    The kernel 'MaxPool3D' for backend 'webgl' is already registered
+[00:34:57.022] Server  WARN    The kernel 'MaxPool3DGrad' for backend 'webgl' is already registered
+[00:34:57.023] Server  WARN    The kernel 'MaxPoolGrad' for backend 'webgl' is already registered
+[00:34:57.025] Server  WARN    The kernel 'MaxPoolWithArgmax' for backend 'webgl' is already registered
+[00:34:57.026] Server  WARN    The kernel 'Mean' for backend 'webgl' is already registered
+[00:34:57.027] Server  WARN    The kernel 'Min' for backend 'webgl' is already registered
+[00:34:57.027] Server  WARN    The kernel 'Minimum' for backend 'webgl' is already registered
+[00:34:57.028] Server  WARN    The kernel 'MirrorPad' for backend 'webgl' is already registered
+[00:34:57.029] Server  WARN    The kernel 'Mod' for backend 'webgl' is already registered
+[00:34:57.030] Server  WARN    The kernel 'Multinomial' for backend 'webgl' is already registered
+[00:34:57.031] Server  WARN    The kernel 'Multiply' for backend 'webgl' is already registered
+[00:34:57.033] Server  WARN    The kernel 'Neg' for backend 'webgl' is already registered
+[00:34:57.034] Server  WARN    The kernel 'NonMaxSuppressionV3' for backend 'webgl' is already registered
+[00:34:57.035] Server  WARN    The kernel 'NonMaxSuppressionV4' for backend 'webgl' is already registered
+[00:34:57.036] Server  WARN    The kernel 'NonMaxSuppressionV5' for backend 'webgl' is already registered
+[00:34:57.037] Server  WARN    The kernel 'NotEqual' for backend 'webgl' is already registered
+[00:34:57.039] Server  WARN    The kernel 'OneHot' for backend 'webgl' is already registered
+[00:34:57.040] Server  WARN    The kernel 'OnesLike' for backend 'webgl' is already registered
+[00:34:57.040] Server  WARN    The kernel 'Pack' for backend 'webgl' is already registered
+[00:34:57.041] Server  WARN    The kernel 'PadV2' for backend 'webgl' is already registered
+[00:34:57.043] Server  WARN    The kernel 'Pow' for backend 'webgl' is already registered
+[00:34:57.044] Server  WARN    The kernel 'Prelu' for backend 'webgl' is already registered
+[00:34:57.045] Server  WARN    The kernel 'Prod' for backend 'webgl' is already registered
+[00:34:57.046] Server  WARN    The kernel 'RaggedGather' for backend 'webgl' is already registered
+[00:34:57.047] Server  WARN    The kernel 'RaggedRange' for backend 'webgl' is already registered
+[00:34:57.048] Server  WARN    The kernel 'RaggedTensorToTensor' for backend 'webgl' is already registered
+[00:34:57.049] Server  WARN    The kernel 'Range' for backend 'webgl' is already registered
+[00:34:57.050] Server  WARN    The kernel 'Real' for backend 'webgl' is already registered
+[00:34:57.052] Server  WARN    The kernel 'RealDiv' for backend 'webgl' is already registered
+[00:34:57.052] Server  WARN    The kernel 'Reciprocal' for backend 'webgl' is already registered
+[00:34:57.053] Server  WARN    The kernel 'Relu' for backend 'webgl' is already registered
+[00:34:57.054] Server  WARN    The kernel 'Relu6' for backend 'webgl' is already registered
+[00:34:57.054] Server  WARN    The kernel 'Reshape' for backend 'webgl' is already registered
+[00:34:57.055] Server  WARN    The kernel 'ResizeBilinear' for backend 'webgl' is already registered
+[00:34:57.055] Server  WARN    The kernel 'ResizeBilinearGrad' for backend 'webgl' is already registered
+[00:34:57.056] Server  WARN    The kernel 'ResizeNearestNeighbor' for backend 'webgl' is already registered
+[00:34:57.056] Server  WARN    The kernel 'ResizeNearestNeighborGrad' for backend 'webgl' is already registered
+[00:34:57.057] Server  WARN    The kernel 'Reverse' for backend 'webgl' is already registered
+[00:34:57.058] Server  WARN    The kernel 'RotateWithOffset' for backend 'webgl' is already registered
+[00:34:57.058] Server  WARN    The kernel 'Round' for backend 'webgl' is already registered
+[00:34:57.059] Server  WARN    The kernel 'Rsqrt' for backend 'webgl' is already registered
+[00:34:57.060] Server  WARN    The kernel 'ScatterNd' for backend 'webgl' is already registered
+[00:34:57.060] Server  WARN    The kernel 'SearchSorted' for backend 'webgl' is already registered
+[00:34:57.061] Server  WARN    The kernel 'Select' for backend 'webgl' is already registered
+[00:34:57.061] Server  WARN    The kernel 'Selu' for backend 'webgl' is already registered
+[00:34:57.062] Server  WARN    The kernel 'Sigmoid' for backend 'webgl' is already registered
+[00:34:57.062] Server  WARN    The kernel 'Sign' for backend 'webgl' is already registered
+[00:34:57.063] Server  WARN    The kernel 'Sin' for backend 'webgl' is already registered
+[00:34:57.064] Server  WARN    The kernel 'Sinh' for backend 'webgl' is already registered
+[00:34:57.064] Server  WARN    The kernel 'Slice' for backend 'webgl' is already registered
+[00:34:57.065] Server  WARN    The kernel 'Softmax' for backend 'webgl' is already registered
+[00:34:57.066] Server  WARN    The kernel 'Softplus' for backend 'webgl' is already registered
+[00:34:57.067] Server  WARN    The kernel 'SpaceToBatchND' for backend 'webgl' is already registered
+[00:34:57.068] Server  WARN    The kernel 'SparseFillEmptyRows' for backend 'webgl' is already registered
+[00:34:57.069] Server  WARN    The kernel 'SparseReshape' for backend 'webgl' is already registered
+[00:34:57.070] Server  WARN    The kernel 'SparseSegmentMean' for backend 'webgl' is already registered
+[00:34:57.071] Server  WARN    The kernel 'SparseSegmentSum' for backend 'webgl' is already registered
+[00:34:57.071] Server  WARN    The kernel 'SparseToDense' for backend 'webgl' is already registered
+[00:34:57.071] Server  WARN    The kernel 'SplitV' for backend 'webgl' is already registered
+[00:34:57.072] Server  WARN    The kernel 'Sqrt' for backend 'webgl' is already registered
+[00:34:57.074] Server  WARN    The kernel 'Square' for backend 'webgl' is already registered
+[00:34:57.074] Server  WARN    The kernel 'SquaredDifference' for backend 'webgl' is already registered
+[00:34:57.075] Server  WARN    The kernel 'StaticRegexReplace' for backend 'webgl' is already registered
+[00:34:57.076] Server  WARN    The kernel 'Step' for backend 'webgl' is already registered
+[00:34:57.076] Server  WARN    The kernel 'StridedSlice' for backend 'webgl' is already registered
+[00:34:57.077] Server  WARN    The kernel 'StringNGrams' for backend 'webgl' is already registered
+[00:34:57.078] Server  WARN    The kernel 'StringSplit' for backend 'webgl' is already registered
+[00:34:57.079] Server  WARN    The kernel 'StringToHashBucketFast' for backend 'webgl' is already registered
+[00:34:57.079] Server  WARN    The kernel 'Sub' for backend 'webgl' is already registered
+[00:34:57.080] Server  WARN    The kernel 'Sum' for backend 'webgl' is already registered
+[00:34:57.081] Server  WARN    The kernel 'Tan' for backend 'webgl' is already registered
+[00:34:57.081] Server  WARN    The kernel 'Tanh' for backend 'webgl' is already registered
+[00:34:57.082] Server  WARN    The kernel 'TensorScatterUpdate' for backend 'webgl' is already registered
+[00:34:57.082] Server  WARN    The kernel 'Tile' for backend 'webgl' is already registered
+[00:34:57.083] Server  WARN    The kernel 'TopK' for backend 'webgl' is already registered
+[00:34:57.084] Server  WARN    The kernel 'Transform' for backend 'webgl' is already registered
+[00:34:57.085] Server  WARN    The kernel 'Transpose' for backend 'webgl' is already registered
+[00:34:57.085] Server  WARN    The kernel 'Unique' for backend 'webgl' is already registered
+[00:34:57.086] Server  WARN    The kernel 'Unpack' for backend 'webgl' is already registered
+[00:34:57.086] Server  WARN    The kernel 'UnsortedSegmentSum' for backend 'webgl' is already registered
+[00:34:57.087] Server  WARN    The kernel 'ZerosLike' for backend 'webgl' is already registered
+[00:34:57.972] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:58.837] Browser LOG     Loading TFJS models...
+[00:34:58.837] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:34:58.837] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dualvision","route":"/dualvision"}
+[00:34:58.837] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dualvision color: rgb(120, 120, 120) color: inherit {"dp":"/dualvision","o":"http://localhost:3000/dualvision","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658182979}
+[00:34:58.837] Browser LOG     I1213 20:36:23.146000 1866800 gl_context.cc:361] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL
+[00:34:58.837] Browser WARN    W1213 20:36:23.146000 1866800 gl_context.cc:1004] OpenGL error checking is disabled
+[00:34:58.837] Browser LOG     Graph successfully started running.
+[00:34:58.837] Browser LOG     MediaPipe EfficientDet-Lite0 loaded
+[00:34:58.837] Browser LOG     Models ready ✔
+[00:37:30.585] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658334893}
+[00:37:30.775] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
+[00:37:32.334] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658336650}
+[00:37:50.457] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:50.459] Server  ERROR   TypeError: fetch failed
+[00:38:53.632] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:38:53.943] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:54.296] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:38:54.296] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:38:54.296] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:38:54.296] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:38:54.296] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658418615}
+[00:38:59.468] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:38:59.470] Server  ERROR   TypeError: fetch failed
+[00:39:08.105] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:08.107] Server  ERROR   TypeError: fetch failed
+[00:39:10.912] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/live color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/live","o":"http://localhost:3000/dashboard/live","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658435222}
+[00:39:38.613] Browser LOG     I1213 20:41:00.175000 1866800 gl_context.cc:361] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL
+[00:39:38.613] Browser WARN    W1213 20:41:00.175000 1866800 gl_context.cc:1004] OpenGL error checking is disabled
+[00:39:38.613] Browser LOG     Graph successfully started running.
+[00:39:38.613] Browser LOG     MediaPipe EfficientDet-Lite0 loaded
+[00:44:56.246] Server  ERROR   C:\Projects\Vision-AI\.next\dev\server\chunks\node_modules_@supabase_auth-js_dist_module_42477000._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:56.247] Server  ERROR   TypeError: fetch failed
+[00:45:08.632] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:45:09.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:11.449] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:45:11.449] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:45:11.449] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:45:11.449] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:45:11.449] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658795400}
+[00:45:21.680] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/live color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/live","o":"http://localhost:3000/dashboard/live","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765658805995}
+[00:47:41.593] Server  LOG      ✓ Compiled in 105ms
