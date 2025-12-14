@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="/vision-ai-banner.png" alt="Vision-AI Banner" width="100%" />
+  <img src="public/vision-ai-banner.png" alt="Vision-AI Banner" width="100%" />
   
   <h1>Vision-AI: The Vision-AI Safety Engine (VASE)</h1>
   <p><strong>Democratizing Advanced Driver Assistance Systems (ADAS) to Save Lives.</strong></p>
@@ -13,7 +13,7 @@
 ---
 
 ## � The "Why": A Silent Crisis
-Every single year, **1.35 million people** lose their lives in road traffic accidents globally. That is one person every 24 seconds.
+Every single year, **1.19 million people** lose their lives in road traffic accidents globally. That is one person every 24 seconds.
 
 Behind these numbers are families destroyed, dreams shattered, and futures stolen. 
 The tragedy is that **93%** of these accidents are preventable, caused by human error:
@@ -104,8 +104,8 @@ Turn your laptop into a safety device in 5 minutes.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/vision-ai.git
-    cd vision-ai
+    git clone https://github.com/Devansh-Sahu/Vision-AI.git
+    cd Vision-AI
     ```
 
 2.  **Install Dependencies**
