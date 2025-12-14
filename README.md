@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="/vision-ai-banner.png" alt="Vision-AI Banner" width="100%" />
+  <img src="public/vision-ai-banner.png" alt="Vision-AI Banner" width="100%" />
   
   <h1>Vision-AI: The Vision-AI Safety Engine (VASE)</h1>
   <p><strong>Democratizing Advanced Driver Assistance Systems (ADAS) to Save Lives.</strong></p>
